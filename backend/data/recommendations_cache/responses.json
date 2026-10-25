@@ -1,0 +1,2847 @@
+{
+  "065c3b62f791": {
+    "cached_at": 1780117723.512396,
+    "payload": {
+      "context_fingerprint": "065c3b62f791",
+      "moment_summary": "Kyoto Afternoon Escapes",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "afternoon",
+        "hour": 14,
+        "weather": "clear",
+        "live_weather": {
+          "condition": "extreme_heat",
+          "description": "clear sky",
+          "temp_c": 30.0,
+          "humidity": 26,
+          "wind_speed": 2.24,
+          "source": "openweathermap"
+        },
+        "activity_state": "moving",
+        "budget_tier": "mid",
+        "group_size": "solo",
+        "archetype": "explorer",
+        "preferences": [
+          "outdoor",
+          "culture",
+          "nature"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": true
+      },
+      "primary_categories": [
+        "outdoor",
+        "food",
+        "walk",
+        "culture"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_572104312",
+          "name": "銅駝公園",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "score": 1.029,
+          "distance_km": 0.4,
+          "duration_min": 49,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "銅駝公園: escape heat now",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "clear",
+            "moving",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_547209766",
+          "name": "新京極六角公園",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "score": 1.014,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "新京極六角公園: serene afternoon oasis",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "clear",
+            "moving",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "score": 0.779,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "京都カレー製作所 カリル: warm lunch break",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "clear",
+            "moving",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_12255150433",
+          "name": "丸亀製麺",
+          "categories": [
+            "food"
+          ],
+          "score": 0.779,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "丸亀製麺: hot afternoon meal",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "clear",
+            "moving",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.587,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "本能寺大寶殿宝物館: indoor culture retreat",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "clear",
+            "moving",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.587,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "島津製作所創業記念資料館: cool indoor discovery",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "clear",
+            "moving",
+            "explorer"
+          ]
+        }
+      ],
+      "total_candidates": 50,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Evening picks unlock after 5 PM",
+      "contrast_note": "Differs from evening calm",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "22cfdff2a567": {
+    "cached_at": 1792851875.2538712,
+    "payload": {
+      "context_fingerprint": "22cfdff2a567",
+      "moment_summary": "Weekend · late night · rain, 20.6°C in Kyoto",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "late_night",
+        "hour": 23,
+        "local_time": "23:21",
+        "weather": "rain",
+        "live_weather": {
+          "condition": "rain",
+          "description": "moderate rain",
+          "temp_c": 20.6,
+          "humidity": 86,
+          "wind_speed": 1.35,
+          "hour": 23,
+          "minute": 21,
+          "local_time": "23:21",
+          "day_type": "weekend",
+          "weekday_name": "Saturday",
+          "timezone_offset_sec": 32400,
+          "source": "openweathermap",
+          "weather_live": true,
+          "fetched_at": "2026-10-24T14:21:46.445342+00:00"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "live_context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "weather": "rain",
+        "weather_description": "moderate rain",
+        "temp_c": 20.6,
+        "hour": 23,
+        "local_time": "23:21",
+        "time_band": "late_night",
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "source": "openweathermap",
+        "weather_live": true
+      },
+      "primary_categories": [
+        "cozy",
+        "food",
+        "indoor",
+        "nightlife"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.947,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Moderate rain tonight — 京都カレー製作所 カリル keeps you dry and fits a late night visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Moderate rain tonight — 京都カレー製作所 カリル keeps you dry and fits a late night visit."
+        },
+        {
+          "id": "osm_node_4359772091",
+          "name": "Maison de thé",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.935,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Moderate rain tonight — Maison de thé keeps you dry and fits a late night visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Moderate rain tonight — Maison de thé keeps you dry and fits a late night visit."
+        },
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.809,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Moderate rain tonight — 本能寺大寶殿宝物館 keeps you dry and fits a late night visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Moderate rain tonight — 本能寺大寶殿宝物館 keeps you dry and fits a late night visit."
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.809,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Moderate rain tonight — 島津製作所創業記念資料館 keeps you dry and fits a late night visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Moderate rain tonight — 島津製作所創業記念資料館 keeps you dry and fits a late night visit."
+        },
+        {
+          "id": "osm_node_572104312",
+          "name": "銅駝公園",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "indoor_outdoor": "outdoor",
+          "score": 0.281,
+          "distance_km": 0.4,
+          "duration_min": 49,
+          "travel_time": 49,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        },
+        {
+          "id": "osm_node_547209766",
+          "name": "新京極六角公園",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "indoor_outdoor": "outdoor",
+          "score": 0.279,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        }
+      ],
+      "total_candidates": 17,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "City selection change",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Indoor-forward feed for rainy night hours — flip to clear + afternoon for outdoor picks.",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "weather_configured": true,
+        "time": "openweathermap_timezone",
+        "explanations": "groq"
+      }
+    }
+  },
+  "61e01c99bd55": {
+    "cached_at": 1780117727.3482602,
+    "payload": {
+      "context_fingerprint": "61e01c99bd55",
+      "moment_summary": "Parisian Night Delights",
+      "context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "time_band": "late_night",
+        "hour": 21,
+        "weather": "rain",
+        "live_weather": {
+          "condition": "clear",
+          "description": "clear sky",
+          "temp_c": 20.5,
+          "humidity": 75,
+          "wind_speed": 3.09,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "budget",
+        "group_size": "family",
+        "archetype": "budget",
+        "preferences": [
+          "culture",
+          "outdoor",
+          "food"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": true
+      },
+      "primary_categories": [
+        "cozy",
+        "food",
+        "indoor",
+        "nightlife"
+      ],
+      "weight_profile": {
+        "env": 0.35,
+        "user": 0.45,
+        "rt": 0.2
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_251056295",
+          "name": "Mariage Frères",
+          "categories": [
+            "food"
+          ],
+          "score": 1.019,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Mariage Frères: warm evening tea for families",
+          "conflict_note": "Rain pivot — covered pick matching your vibe",
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "budget"
+          ]
+        },
+        {
+          "id": "osm_node_251043135",
+          "name": "Le Loir dans la Théière",
+          "categories": [
+            "food"
+          ],
+          "score": 1.01,
+          "distance_km": 0.6,
+          "duration_min": 52,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Le Loir dans la Théière: budget dinner on rainy nights",
+          "conflict_note": "Rain pivot — covered pick matching your vibe",
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "budget"
+          ]
+        },
+        {
+          "id": "osm_node_247584452",
+          "name": "Musée des Arts Décoratifs",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.85,
+          "distance_km": 1.6,
+          "duration_min": 64,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Musée des Arts Décoratifs: cultural escape from evening rain",
+          "conflict_note": "Rain pivot — covered pick matching your vibe",
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "budget"
+          ]
+        },
+        {
+          "id": "osm_node_247618453",
+          "name": "Museum of Arts et Métiers",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.797,
+          "distance_km": 1.1,
+          "duration_min": 58,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Museum of Arts et Métiers: indoor evening wonder for budget families",
+          "conflict_note": "Rain pivot — covered pick matching your vibe",
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "budget"
+          ]
+        }
+      ],
+      "total_candidates": 31,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Differs from daytime crowds",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "6b8ba622d4f3": {
+    "cached_at": 1780117875.009001,
+    "payload": {
+      "context_fingerprint": "6b8ba622d4f3",
+      "moment_summary": "Parisian Night Unfolds",
+      "context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "time_band": "late_night",
+        "hour": 21,
+        "weather": "rain",
+        "live_weather": {
+          "condition": "clear",
+          "description": "clear sky",
+          "temp_c": 20.5,
+          "humidity": 75,
+          "wind_speed": 3.09,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "primary_categories": [
+        "cozy",
+        "food",
+        "indoor",
+        "nightlife"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_251043137",
+          "name": "La Perla",
+          "categories": [
+            "food"
+          ],
+          "score": 0.933,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "La Perla: warm evening dine",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251043140",
+          "name": "Pizzou",
+          "categories": [
+            "food"
+          ],
+          "score": 0.933,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Pizzou: cozy night food",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251126259",
+          "name": "Le Lizard",
+          "categories": [
+            "nightlife",
+            "food"
+          ],
+          "score": 0.933,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "After 9 PM",
+          "why_now": "Le Lizard: late-night explorer",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251125922",
+          "name": "The Auld Alliance",
+          "categories": [
+            "nightlife",
+            "food"
+          ],
+          "score": 0.91,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "After 9 PM",
+          "why_now": "The Auld Alliance: free nightlife",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_247618453",
+          "name": "Museum of Arts et Métiers",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.773,
+          "distance_km": 1.1,
+          "duration_min": 58,
+          "travel_time": 58,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Museum of Arts et Métiers: cultural evening",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_247584452",
+          "name": "Musée des Arts Décoratifs",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.743,
+          "distance_km": 1.6,
+          "duration_min": 64,
+          "travel_time": 64,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Musée des Arts Décoratifs: decorative night",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        }
+      ],
+      "total_candidates": 35,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Differs from daytime",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "ef758a154681": {
+    "cached_at": 1780117883.284234,
+    "payload": {
+      "context_fingerprint": "ef758a154681",
+      "moment_summary": "Paris Morning Delight",
+      "context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "time_band": "morning",
+        "hour": 8,
+        "weather": "rain",
+        "live_weather": {
+          "condition": "clear",
+          "description": "clear sky",
+          "temp_c": 20.5,
+          "humidity": 75,
+          "wind_speed": 3.09,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "primary_categories": [
+        "indoor",
+        "cozy",
+        "culture",
+        "food"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_247618453",
+          "name": "Museum of Arts et Métiers",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.966,
+          "distance_km": 1.1,
+          "duration_min": 58,
+          "travel_time": 58,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Museum of Arts et Métiers: rainy morning culture for couples",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_247584452",
+          "name": "Musée des Arts Décoratifs",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.931,
+          "distance_km": 1.6,
+          "duration_min": 64,
+          "travel_time": 64,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Musée des Arts Décoratifs: mid-budget indoor art on rainy morning",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251043137",
+          "name": "La Perla",
+          "categories": [
+            "food"
+          ],
+          "score": 0.771,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "La Perla: warm breakfast on a clear Paris morning",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251043140",
+          "name": "Pizzou",
+          "categories": [
+            "food"
+          ],
+          "score": 0.771,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Pizzou: cozy morning food for explorers",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251126259",
+          "name": "Le Lizard",
+          "categories": [
+            "nightlife",
+            "food"
+          ],
+          "score": 0.696,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "After 9 PM",
+          "why_now": "Le Lizard: not ideal for morning, better after 9 PM",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_251125922",
+          "name": "The Auld Alliance",
+          "categories": [
+            "nightlife",
+            "food"
+          ],
+          "score": 0.677,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "After 9 PM",
+          "why_now": "The Auld Alliance: not suitable for morning, more for evening nightlife",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        }
+      ],
+      "total_candidates": 35,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Differs from evening calm",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "933593bffedb": {
+    "cached_at": 1780117888.608777,
+    "payload": {
+      "context_fingerprint": "933593bffedb",
+      "moment_summary": "Rainy Kyoto morning escape",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "morning",
+        "hour": 8,
+        "weather": "rain",
+        "live_weather": {
+          "condition": "extreme_heat",
+          "description": "clear sky",
+          "temp_c": 30.0,
+          "humidity": 26,
+          "wind_speed": 2.24,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "primary_categories": [
+        "indoor",
+        "cozy",
+        "culture",
+        "food"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 1.009,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "本能寺大寶殿宝物館: indoor culture on rainy morning",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 1.009,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "島津製作所創業記念資料館: indoor culture on rainy morning",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_1226198705",
+          "name": "屋上庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.861,
+          "distance_km": 0.0,
+          "duration_min": 45,
+          "travel_time": 45,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "屋上庭園: serene morning nature before crowds",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_1226198706",
+          "name": "雨庭構造見本庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.854,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "雨庭構造見本庭園: peaceful morning rain garden stroll",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "score": 0.782,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "京都カレー製作所 カリル: warm evening food ahead",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_12255150433",
+          "name": "丸亀製麺",
+          "categories": [
+            "food"
+          ],
+          "score": 0.782,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "丸亀製麺: evening food delight to come",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "rain",
+            "stationary",
+            "explorer"
+          ]
+        }
+      ],
+      "total_candidates": 50,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Differs from evening calm",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "962055846fab": {
+    "cached_at": 1780117934.387487,
+    "payload": {
+      "context_fingerprint": "962055846fab",
+      "moment_summary": "Stroll Kyoto's night scene",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "late_night",
+        "hour": 21,
+        "weather": "clear",
+        "live_weather": {
+          "condition": "extreme_heat",
+          "description": "clear sky",
+          "temp_c": 30.0,
+          "humidity": 26,
+          "wind_speed": 2.24,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "primary_categories": [
+        "nightlife",
+        "food",
+        "cozy",
+        "indoor"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "score": 0.823,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Kyoto Curry for a late-night bite under clear skies",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "clear",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_12255150433",
+          "name": "丸亀製麺",
+          "categories": [
+            "food"
+          ],
+          "score": 0.823,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Marugame Seimen for warm evening ramen",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "clear",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.635,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Honnoji Temple's indoor culture on a hot night",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "clear",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.635,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Shimadzu Museum's air-conditioned exhibits for couples",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "clear",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_1226198705",
+          "name": "屋上庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.34,
+          "distance_km": 0.0,
+          "duration_min": 45,
+          "travel_time": 45,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Yagura Garden's serene outdoor space at night",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "clear",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_1226198706",
+          "name": "雨庭構造見本庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.337,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Uchino Garden's unique structures under starry skies",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "clear",
+            "stationary",
+            "explorer"
+          ]
+        }
+      ],
+      "total_candidates": 50,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Live weather: clear sky",
+      "contrast_note": "Differs from morning's calm",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "b0839496a3be": {
+    "cached_at": 1780117936.735902,
+    "payload": {
+      "context_fingerprint": "b0839496a3be",
+      "moment_summary": "Snowy Kyoto Night Escapes",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "late_night",
+        "hour": 21,
+        "weather": "snow",
+        "live_weather": {
+          "condition": "extreme_heat",
+          "description": "clear sky",
+          "temp_c": 30.0,
+          "humidity": 26,
+          "wind_speed": 2.24,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "primary_categories": [
+        "nightlife",
+        "food",
+        "cozy",
+        "indoor"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "score": 0.947,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Kyoto Curry for couples on snowy nights",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "snow",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_12255150433",
+          "name": "丸亀製麺",
+          "categories": [
+            "food"
+          ],
+          "score": 0.947,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Marugame Seimen's warm food in cold time",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "snow",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.732,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Discovering Honnoji Temple's indoor culture now",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "snow",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.732,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Exploring Shimadzu Museum's indoor exhibits tonight",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "snow",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_1226198705",
+          "name": "屋上庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.391,
+          "distance_km": 0.0,
+          "duration_min": 45,
+          "travel_time": 45,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Romantic rooftop garden under starry sky",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "snow",
+            "stationary",
+            "explorer"
+          ]
+        },
+        {
+          "id": "osm_node_1226198706",
+          "name": "雨庭構造見本庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.388,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Rain Garden's serene beauty in snowy evening",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "snow",
+            "stationary",
+            "explorer"
+          ]
+        }
+      ],
+      "total_candidates": 50,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Live weather: clear sky",
+      "contrast_note": "Unlike scorching days",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "1a8419eacd33": {
+    "cached_at": 1780117962.467345,
+    "payload": {
+      "context_fingerprint": "1a8419eacd33",
+      "moment_summary": "Rainy Night in Kyoto",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "late_night",
+        "hour": 23,
+        "weather": "rain",
+        "live_weather": {
+          "condition": "extreme_heat",
+          "description": "clear sky",
+          "temp_c": 30.0,
+          "humidity": 26,
+          "wind_speed": 2.24,
+          "source": "openweathermap"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "family",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "primary_categories": [
+        "culture",
+        "food",
+        "outdoor",
+        "indoor"
+      ],
+      "weight_profile": {
+        "env": 0.4,
+        "user": 0.35,
+        "rt": 0.25
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_1226198705",
+          "name": "屋上庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.955,
+          "distance_km": 0.0,
+          "duration_min": 45,
+          "travel_time": 45,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "屋上庭園: serene night stroll, rain, couple, culture",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "family"
+          ]
+        },
+        {
+          "id": "osm_node_1226198706",
+          "name": "雨庭構造見本庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "score": 0.95,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "雨庭構造見本庭園: peaceful evening, rain, couple, nature",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "family"
+          ]
+        },
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "score": 0.947,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "京都カレー製作所 カリル: warm curry, late night, couple, food",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "family"
+          ]
+        },
+        {
+          "id": "osm_node_12255150433",
+          "name": "丸亀製麺",
+          "categories": [
+            "food"
+          ],
+          "score": 0.947,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "丸亀製麺: cozy ramen, late night, couple, food",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "family"
+          ]
+        },
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.946,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "本能寺大寶殿宝物館: indoor culture, evening, family, style",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "family"
+          ]
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "score": 0.946,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "島津製作所創業記念資料館: indoor history, evening, family, culture",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "rain",
+            "stationary",
+            "family"
+          ]
+        }
+      ],
+      "total_candidates": 50,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "Location shift >500 m",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Differs from sunny days",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "explanations": "groq"
+      }
+    }
+  },
+  "17b50b19443a": {
+    "cached_at": 1780124144.1286159,
+    "payload": {
+      "context_fingerprint": "17b50b19443a",
+      "moment_summary": "Parisian Morning Delight",
+      "context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "time_band": "morning",
+        "hour": 8,
+        "local_time": "08:52",
+        "weather": "clear",
+        "live_weather": {
+          "condition": "clear",
+          "description": "clear sky",
+          "temp_c": 23.3,
+          "humidity": 75,
+          "wind_speed": 2.06,
+          "hour": 8,
+          "minute": 52,
+          "local_time": "08:52",
+          "day_type": "weekend",
+          "weekday_name": "Saturday",
+          "timezone_offset_sec": 7200,
+          "source": "openweathermap",
+          "weather_live": true,
+          "fetched_at": "2026-05-30T06:55:43.439295+00:00"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "foodie",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "live_context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "weather": "clear",
+        "weather_description": "clear sky",
+        "temp_c": 23.3,
+        "hour": 8,
+        "local_time": "08:52",
+        "time_band": "morning",
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "source": "openweathermap",
+        "weather_live": true
+      },
+      "primary_categories": [
+        "food",
+        "cozy",
+        "culture"
+      ],
+      "weight_profile": {
+        "env": 0.28,
+        "user": 0.42,
+        "rt": 0.3
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_251043137",
+          "name": "La Perla",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.876,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "La Perla: clear morning, foodie couple",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "clear",
+            "stationary",
+            "foodie"
+          ],
+          "reason": "La Perla: clear morning, foodie couple"
+        },
+        {
+          "id": "osm_node_251043140",
+          "name": "Pizzou",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.876,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Pizzou: sunny start, indoor food",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "clear",
+            "stationary",
+            "foodie"
+          ],
+          "reason": "Pizzou: sunny start, indoor food"
+        },
+        {
+          "id": "osm_node_251126259",
+          "name": "Le Lizard",
+          "categories": [
+            "nightlife",
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.793,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "After 9 PM",
+          "why_now": "Le Lizard: not ideal, nighttime spot",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "clear",
+            "stationary",
+            "foodie"
+          ],
+          "reason": "Le Lizard: not ideal, nighttime spot"
+        },
+        {
+          "id": "osm_node_251125922",
+          "name": "The Auld Alliance",
+          "categories": [
+            "nightlife",
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.766,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "After 9 PM",
+          "why_now": "The Auld Alliance: evening destination, not now",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "clear",
+            "stationary",
+            "foodie"
+          ],
+          "reason": "The Auld Alliance: evening destination, not now"
+        },
+        {
+          "id": "osm_node_247618453",
+          "name": "Museum of Arts et Métiers",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.712,
+          "distance_km": 1.1,
+          "duration_min": 58,
+          "travel_time": 58,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Museum of Arts et Métiers: culture, clear morning",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "clear",
+            "stationary",
+            "foodie"
+          ],
+          "reason": "Museum of Arts et Métiers: culture, clear morning"
+        },
+        {
+          "id": "osm_node_247584452",
+          "name": "Musée des Arts Décoratifs",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.684,
+          "distance_km": 1.6,
+          "duration_min": 64,
+          "travel_time": 64,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.5,
+          "best_visiting_time": "Early evening",
+          "why_now": "Musée des Arts Décoratifs: decorative arts, morning visit",
+          "conflict_note": null,
+          "signals_used": [
+            "morning",
+            "clear",
+            "stationary",
+            "foodie"
+          ],
+          "reason": "Musée des Arts Décoratifs: decorative arts, morning visit"
+        }
+      ],
+      "total_candidates": 35,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "City selection change",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Live in Paris: clear sky at 08:52",
+      "contrast_note": "Differs from evening crowds",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "weather_configured": true,
+        "time": "openweathermap_timezone",
+        "explanations": "groq"
+      }
+    }
+  },
+  "7861dab6d520": {
+    "cached_at": 1780125702.536215,
+    "payload": {
+      "context_fingerprint": "7861dab6d520",
+      "moment_summary": "Escape Kyoto's Heat",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "afternoon",
+        "hour": 16,
+        "local_time": "16:21",
+        "weather": "extreme_heat",
+        "live_weather": {
+          "condition": "extreme_heat",
+          "description": "clear sky",
+          "temp_c": 30.6,
+          "humidity": 25,
+          "wind_speed": 0.45,
+          "hour": 16,
+          "minute": 21,
+          "local_time": "16:21",
+          "day_type": "weekend",
+          "weekday_name": "Saturday",
+          "timezone_offset_sec": 32400,
+          "source": "openweathermap",
+          "weather_live": true,
+          "fetched_at": "2026-05-30T07:21:41.596850+00:00"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "live_context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "weather": "extreme_heat",
+        "weather_description": "clear sky",
+        "temp_c": 30.6,
+        "hour": 16,
+        "local_time": "16:21",
+        "time_band": "afternoon",
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "source": "openweathermap",
+        "weather_live": true
+      },
+      "primary_categories": [
+        "indoor",
+        "culture",
+        "wellness",
+        "food"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 1.009,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "本能寺大寶殿宝物館: indoor refuge from heat",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "extreme_heat",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "本能寺大寶殿宝物館: indoor refuge from heat"
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 1.009,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "島津製作所創業記念資料館: cool culture for couples",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "extreme_heat",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "島津製作所創業記念資料館: cool culture for couples"
+        },
+        {
+          "id": "osm_node_1226198705",
+          "name": "屋上庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.943,
+          "distance_km": 0.0,
+          "duration_min": 45,
+          "travel_time": 45,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "屋上庭園: morning crowds avoided, not heat",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "extreme_heat",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "屋上庭園: morning crowds avoided, not heat"
+        },
+        {
+          "id": "osm_node_1226198706",
+          "name": "雨庭構造見本庭園",
+          "categories": [
+            "outdoor",
+            "nature",
+            "culture"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.935,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "雨庭構造見本庭園: indoor nature escape",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "extreme_heat",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "雨庭構造見本庭園: indoor nature escape"
+        },
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.782,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "京都カレー製作所 カリル: evening food, beating heat",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "extreme_heat",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "京都カレー製作所 カリル: evening food, beating heat"
+        },
+        {
+          "id": "osm_node_12255150433",
+          "name": "丸亀製麺",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.782,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "丸亀製麺: indoor evening meals for explorers",
+          "conflict_note": null,
+          "signals_used": [
+            "afternoon",
+            "extreme_heat",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "丸亀製麺: indoor evening meals for explorers"
+        }
+      ],
+      "total_candidates": 50,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "City selection change",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Evening picks unlock after 5 PM",
+      "contrast_note": "Differs from cool mornings",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "weather_configured": true,
+        "time": "openweathermap_timezone",
+        "explanations": "groq"
+      }
+    }
+  },
+  "a3f6be5bf36a": {
+    "cached_at": 1792861747.34912,
+    "payload": {
+      "context_fingerprint": "a3f6be5bf36a",
+      "moment_summary": "Weekend · late night · cloud cover, 20.0°C in Kyoto",
+      "context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "time_band": "late_night",
+        "hour": 2,
+        "local_time": "02:09",
+        "weather": "cloudy",
+        "live_weather": {
+          "condition": "cloudy",
+          "description": "overcast clouds",
+          "temp_c": 20.0,
+          "humidity": 89,
+          "wind_speed": 1.42,
+          "hour": 2,
+          "minute": 9,
+          "local_time": "02:09",
+          "day_type": "weekend",
+          "weekday_name": "Sunday",
+          "timezone_offset_sec": 32400,
+          "source": "openweathermap",
+          "weather_live": true,
+          "fetched_at": "2026-10-24T17:09:07.247691+00:00"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekend",
+        "weekday_name": "Sunday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "live_context": {
+        "city": "kyoto",
+        "city_display": "Kyoto",
+        "weather": "cloudy",
+        "weather_description": "overcast clouds",
+        "temp_c": 20.0,
+        "hour": 2,
+        "local_time": "02:09",
+        "time_band": "late_night",
+        "day_type": "weekend",
+        "weekday_name": "Sunday",
+        "source": "openweathermap",
+        "weather_live": true
+      },
+      "primary_categories": [
+        "nightlife",
+        "food",
+        "cozy",
+        "indoor"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_13859534302",
+          "name": "京都カレー製作所 カリル",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.836,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "cloudy",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        },
+        {
+          "id": "osm_node_4359772091",
+          "name": "Maison de thé",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.826,
+          "distance_km": 0.1,
+          "duration_min": 46,
+          "travel_time": 46,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "cloudy",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        },
+        {
+          "id": "osm_node_7319933585",
+          "name": "本能寺大寶殿宝物館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.645,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "cloudy",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        },
+        {
+          "id": "osm_node_190551080",
+          "name": "島津製作所創業記念資料館",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.645,
+          "distance_km": 0.2,
+          "duration_min": 47,
+          "travel_time": 47,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "cloudy",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        },
+        {
+          "id": "osm_node_572104312",
+          "name": "銅駝公園",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "indoor_outdoor": "outdoor",
+          "score": 0.321,
+          "distance_km": 0.4,
+          "duration_min": 49,
+          "travel_time": 49,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "cloudy",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        },
+        {
+          "id": "osm_node_547209766",
+          "name": "新京極六角公園",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "indoor_outdoor": "outdoor",
+          "score": 0.318,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Strong match for late night in Kyoto given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "late_night",
+            "cloudy",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for late night in Kyoto given your explorer style."
+        }
+      ],
+      "total_candidates": 17,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "City selection change",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Live in Kyoto: overcast clouds at 02:09",
+      "contrast_note": "Change city or traveler style to see the feed regenerate.",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "weather_configured": true,
+        "time": "openweathermap_timezone",
+        "explanations": "groq"
+      }
+    }
+  },
+  "d8bbcf9d89ed": {
+    "cached_at": 1792861931.916703,
+    "payload": {
+      "context_fingerprint": "d8bbcf9d89ed",
+      "moment_summary": "Weekend · evening · rain, 10.8°C in Paris",
+      "context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "time_band": "evening",
+        "hour": 19,
+        "local_time": "19:09",
+        "weather": "rain",
+        "live_weather": {
+          "condition": "rain",
+          "description": "heavy intensity rain",
+          "temp_c": 10.8,
+          "humidity": 93,
+          "wind_speed": 6.72,
+          "hour": 19,
+          "minute": 9,
+          "local_time": "19:09",
+          "day_type": "weekend",
+          "weekday_name": "Saturday",
+          "timezone_offset_sec": 7200,
+          "source": "openweathermap",
+          "weather_live": true,
+          "fetched_at": "2026-10-24T17:09:31.943540+00:00"
+        },
+        "activity_state": "stationary",
+        "budget_tier": "mid",
+        "group_size": "couple",
+        "archetype": "explorer",
+        "preferences": [
+          "food",
+          "culture"
+        ],
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "crowd_averse": false,
+        "outdoor_preference": false
+      },
+      "live_context": {
+        "city": "paris",
+        "city_display": "Paris",
+        "weather": "rain",
+        "weather_description": "heavy intensity rain",
+        "temp_c": 10.8,
+        "hour": 19,
+        "local_time": "19:09",
+        "time_band": "evening",
+        "day_type": "weekend",
+        "weekday_name": "Saturday",
+        "source": "openweathermap",
+        "weather_live": true
+      },
+      "primary_categories": [
+        "cozy",
+        "food",
+        "indoor",
+        "nightlife"
+      ],
+      "weight_profile": {
+        "env": 0.3,
+        "user": 0.25,
+        "rt": 0.45
+      },
+      "recommendations": [
+        {
+          "id": "osm_node_12403457895",
+          "name": "Crêperie du Cloître",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.927,
+          "distance_km": 0.4,
+          "duration_min": 49,
+          "travel_time": 49,
+          "budget_tier": "mid",
+          "availability": "open_now",
+          "cost": "$15–$45",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Heavy intensity rain tonight — Crêperie du Cloître keeps you dry and fits a evening visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "evening",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Heavy intensity rain tonight — Crêperie du Cloître keeps you dry and fits a evening visit."
+        },
+        {
+          "id": "osm_node_677597945",
+          "name": "Aux Tours de Notre-Dame",
+          "categories": [
+            "food"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.916,
+          "distance_km": 0.4,
+          "duration_min": 49,
+          "travel_time": 49,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Early evening",
+          "why_now": "Heavy intensity rain tonight — Aux Tours de Notre-Dame keeps you dry and fits a evening visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "evening",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Heavy intensity rain tonight — Aux Tours de Notre-Dame keeps you dry and fits a evening visit."
+        },
+        {
+          "id": "osm_node_1913411918",
+          "name": "Trésor de Notre-Dame",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.83,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Heavy intensity rain tonight — Trésor de Notre-Dame keeps you dry and fits a evening visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "evening",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Heavy intensity rain tonight — Trésor de Notre-Dame keeps you dry and fits a evening visit."
+        },
+        {
+          "id": "osm_node_910390736",
+          "name": "Conciergerie",
+          "categories": [
+            "culture",
+            "indoor"
+          ],
+          "indoor_outdoor": "indoor",
+          "score": 0.83,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.3,
+          "best_visiting_time": "Early evening",
+          "why_now": "Heavy intensity rain tonight — Conciergerie keeps you dry and fits a evening visit.",
+          "conflict_note": null,
+          "signals_used": [
+            "evening",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Heavy intensity rain tonight — Conciergerie keeps you dry and fits a evening visit."
+        },
+        {
+          "id": "osm_node_53662739",
+          "name": "Paris 4e Arrondissement",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "indoor_outdoor": "outdoor",
+          "score": 0.301,
+          "distance_km": 0.3,
+          "duration_min": 48,
+          "travel_time": 48,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Strong match for evening in Paris given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "evening",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for evening in Paris given your explorer style."
+        },
+        {
+          "id": "osm_node_20444455",
+          "name": "Square Jean XXIII",
+          "categories": [
+            "outdoor",
+            "nature"
+          ],
+          "indoor_outdoor": "outdoor",
+          "score": 0.296,
+          "distance_km": 0.5,
+          "duration_min": 51,
+          "travel_time": 51,
+          "budget_tier": "budget",
+          "availability": "open_now",
+          "cost": "Free–$15",
+          "rating": 4.0,
+          "best_visiting_time": "Morning (before crowds)",
+          "why_now": "Strong match for evening in Paris given your explorer style.",
+          "conflict_note": null,
+          "signals_used": [
+            "evening",
+            "rain",
+            "stationary",
+            "explorer"
+          ],
+          "reason": "Strong match for evening in Paris given your explorer style."
+        }
+      ],
+      "total_candidates": 16,
+      "refresh_triggers": [
+        "Time band change (morning → afternoon → evening → late night)",
+        "Weather condition change",
+        "City selection change",
+        "Activity state change (moving ↔ stationary)"
+      ],
+      "next_refresh_hint": "Will refresh when weather clears",
+      "contrast_note": "Indoor-forward feed for rainy night hours — flip to clear + afternoon for outdoor picks.",
+      "data_sources": {
+        "places": "OpenStreetMap (Overpass + Nominatim)",
+        "weather": "openweathermap",
+        "weather_configured": true,
+        "time": "openweathermap_timezone",
+        "explanations": "groq"
+      }
+    }
+  }
+}

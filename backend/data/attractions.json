@@ -1,0 +1,251 @@
+{
+  "paris": {
+    "eiffel_tower": {
+      "name": "Eiffel Tower",
+      "booking_required": true,
+      "optimal_booking_window": "3–7 days before (summit); same-day for 2nd floor off-peak",
+      "avoid_times": "Weekends after 4 PM, public holidays",
+      "best_time": "Sunrise (8:30–10 AM) or golden hour (8–10 PM)",
+      "crowd_pattern": "Peak 11 AM–4 PM",
+      "duration": "2–3 hours",
+      "guidance": "Book summit access for sunset slots — they sell out first."
+    },
+    "louvre": {
+      "name": "Louvre Museum",
+      "booking_required": true,
+      "optimal_booking_window": "Same day to 1 week before",
+      "avoid_times": "Wednesdays after 3 PM if short on time; closed Tuesdays",
+      "best_time": "Opening (9 AM) or Friday evening extended hours",
+      "crowd_pattern": "Busiest near Mona Lisa 10 AM–3 PM",
+      "duration": "3–4 hours minimum",
+      "guidance": "Enter via Passage Richelieu or Carrousel du Louvre to skip main pyramid queue."
+    },
+    "louvre_museum": {
+      "name": "Louvre Museum",
+      "booking_required": true,
+      "optimal_booking_window": "Same day to 1 week before",
+      "avoid_times": "Weekends and school holidays",
+      "best_time": "9 AM opening slot",
+      "crowd_pattern": "Heavy weekends",
+      "duration": "3–4 hours",
+      "guidance": "Download museum map and pick 3 wings max for one visit."
+    },
+    "notre_dame": {
+      "name": "Notre-Dame Cathedral",
+      "booking_required": false,
+      "optimal_booking_window": "No advance booking required",
+      "avoid_times": "Sunday mass times if touring exterior only",
+      "best_time": "Early morning (8–10 AM)",
+      "crowd_pattern": "Steady foot traffic all day",
+      "duration": "45–90 minutes",
+      "guidance": "Interior restoration ongoing — check latest visitor access; Île de la Cité walk is free."
+    },
+    "versailles": {
+      "name": "Palace of Versailles",
+      "booking_required": true,
+      "optimal_booking_window": "3–5 days before in summer",
+      "avoid_times": "Tuesday crowds when Louvre is closed",
+      "best_time": "9 AM opening — gardens first, palace mid-morning",
+      "crowd_pattern": "Extreme summer weekends",
+      "duration": "Half to full day",
+      "guidance": "Passport required for passport-holder free days — verify eligibility."
+    }
+  },
+  "tokyo": {
+    "teamlab": {
+      "name": "teamLab Planets",
+      "booking_required": true,
+      "optimal_booking_window": "7–10 days before",
+      "avoid_times": "Weekends after 2 PM, Japanese public holidays",
+      "best_time": "Weekday 10 AM–12 PM slots",
+      "crowd_pattern": "Sold out most weekends",
+      "duration": "2–3 hours",
+      "guidance": "Wear shoes you can remove quickly — some rooms are water-based."
+    },
+    "teamLab_planets": {
+      "name": "teamLab Planets",
+      "booking_required": true,
+      "optimal_booking_window": "7–10 days before",
+      "avoid_times": "Evening slots on Fridays/Saturdays",
+      "best_time": "Weekday morning",
+      "crowd_pattern": "High demand year-round",
+      "duration": "2–3 hours",
+      "guidance": "Arrive 15 minutes before slot — late entry may be denied."
+    },
+    "ghibli": {
+      "name": "Ghibli Museum",
+      "booking_required": true,
+      "optimal_booking_window": "1–3 months before (10th of month release)",
+      "avoid_times": "Same-day — virtually impossible",
+      "best_time": "Weekday 10 AM entry",
+      "crowd_pattern": "Fixed capacity daily",
+      "duration": "2 hours",
+      "guidance": "Purchase via Lawson Ticket website — passports required at entry."
+    },
+    "ghibli_museum": {
+      "name": "Ghibli Museum",
+      "booking_required": true,
+      "optimal_booking_window": "1–3 months before",
+      "avoid_times": "All slots limited",
+      "best_time": "Weekday mornings",
+      "crowd_pattern": "Always limited tickets",
+      "duration": "2 hours",
+      "guidance": "No photos inside — plan Mitaka stroll afterward."
+    },
+    "shibuya": {
+      "name": "Shibuya Crossing",
+      "booking_required": false,
+      "optimal_booking_window": "No booking required",
+      "avoid_times": "Late night if safety is a concern",
+      "best_time": "Weekday 7–9 PM for peak crossing energy",
+      "crowd_pattern": "Constant flow",
+      "duration": "30–60 minutes",
+      "guidance": "View from Shibuya Sky or Starbucks Tsutaya for iconic photos."
+    },
+    "shibuya_crossing": {
+      "name": "Shibuya Crossing",
+      "booking_required": false,
+      "optimal_booking_window": "Walk-in anytime",
+      "best_time": "Evening rush hour",
+      "guidance": "Free public experience — combine with Hachiko statue visit."
+    },
+    "skytree": {
+      "name": "Tokyo Skytree",
+      "booking_required": true,
+      "optimal_booking_window": "Same day to 3 days before",
+      "avoid_times": "Weekends after 2 PM, Golden Week",
+      "best_time": "Sunset slot for city lights transition",
+      "crowd_pattern": "Heavy weekends",
+      "duration": "2–3 hours",
+      "guidance": "Tembo Galleria add-on worth it for glass-floor views."
+    },
+    "tokyo_skytree": {
+      "name": "Tokyo Skytree",
+      "booking_required": true,
+      "optimal_booking_window": "2–3 days before for sunset",
+      "avoid_times": "Holiday evenings",
+      "best_time": "1 hour before sunset",
+      "crowd_pattern": "Moderate weekdays",
+      "duration": "2 hours",
+      "guidance": "Solamachi mall at base — good for dinner after visit."
+    },
+    "universal_studios": {
+      "name": "Universal Studios Japan",
+      "booking_required": true,
+      "optimal_booking_window": "7–14 days before; Express Pass 2–4 weeks for Mario",
+      "avoid_times": "Weekends, school holidays, rainy days (still crowded)",
+      "best_time": "Park opening — head to Super Nintendo World first",
+      "crowd_pattern": "Very high year-round",
+      "duration": "Full day",
+      "guidance": "Express Pass almost essential for Nintendo World timed entry."
+    },
+    "disneyland": {
+      "name": "Tokyo Disneyland",
+      "booking_required": true,
+      "optimal_booking_window": "7–10 days before for peak seasons",
+      "avoid_times": "Weekends and holiday periods",
+      "best_time": "Rope drop at opening",
+      "crowd_pattern": "Extreme on holidays",
+      "duration": "Full day",
+      "guidance": "Download official app for standby passes and mobile ordering."
+    },
+    "sensoji": {
+      "name": "Senso-ji Temple (Asakusa)",
+      "booking_required": false,
+      "optimal_booking_window": "No advance booking",
+      "avoid_times": "Midday weekends",
+      "best_time": "Early morning (6–8 AM) for photos without crowds",
+      "crowd_pattern": "Heavy Nakamise shopping street afternoons",
+      "duration": "1–2 hours",
+      "guidance": "Free entry — combine with Sumida River walk."
+    }
+  },
+  "santorini": {
+    "oia": {
+      "name": "Oia Sunset Viewing",
+      "booking_required": false,
+      "optimal_booking_window": "No booking required",
+      "avoid_times": "Cruise ship days (check port schedule)",
+      "best_time": "Arrive 90 min before sunset (season-dependent)",
+      "crowd_pattern": "Extreme July–August",
+      "duration": "2–3 hours",
+      "guidance": "No advance tickets — reserve dinner terrace or arrive very early for castle ruins spot."
+    },
+    "oia_sunset": {
+      "name": "Oia Sunset Viewing",
+      "booking_required": false,
+      "optimal_booking_window": "Walk-in",
+      "best_time": "6–7 PM summer; adjust by season",
+      "guidance": "Fira sunset is less crowded alternative with caldera views."
+    },
+    "akrotiri": {
+      "name": "Akrotiri Archaeological Site",
+      "booking_required": false,
+      "optimal_booking_window": "Optional online ticket to skip queue",
+      "avoid_times": "Midday heat June–August",
+      "best_time": "9–11 AM",
+      "crowd_pattern": "Moderate",
+      "duration": "1–2 hours",
+      "guidance": "Covered walkways — one of the best-preserved Bronze Age sites."
+    }
+  },
+  "bali": {
+    "monkey_forest": {
+      "name": "Ubud Sacred Monkey Forest",
+      "booking_required": false,
+      "optimal_booking_window": "Tickets at gate — no pre-book needed",
+      "avoid_times": "Midday when monkeys are restless",
+      "best_time": "8–10 AM",
+      "crowd_pattern": "Moderate mornings",
+      "duration": "1–2 hours",
+      "guidance": "Secure sunglasses and phones — monkeys will grab loose items."
+    },
+    "ubud_sacred_monkey_forest": {
+      "name": "Ubud Sacred Monkey Forest",
+      "booking_required": false,
+      "optimal_booking_window": "Walk-in",
+      "best_time": "Early morning",
+      "guidance": "Do not feed or stare at monkeys — follow staff instructions."
+    },
+    "tanah_lot": {
+      "name": "Tanah Lot Temple",
+      "booking_required": false,
+      "optimal_booking_window": "No advance booking",
+      "avoid_times": "Rainy season slippery paths",
+      "best_time": "Sunset (5:30–6:30 PM)",
+      "crowd_pattern": "High at sunset",
+      "duration": "1–2 hours",
+      "guidance": "Iconic ocean temple — cannot enter inner temple unless praying."
+    },
+    "mount_batur": {
+      "name": "Mount Batur Sunrise Trek",
+      "booking_required": true,
+      "optimal_booking_window": "3–7 days before in peak season",
+      "avoid_times": "Rainy season without guide",
+      "best_time": "Pickup ~2 AM for sunrise summit",
+      "crowd_pattern": "Many groups at summit",
+      "duration": "4–5 hours",
+      "guidance": "Book licensed guide — includes breakfast at summit tradition."
+    }
+  },
+  "bangkok": {
+    "grand_palace": {
+      "name": "Grand Palace Bangkok",
+      "booking_required": false,
+      "optimal_booking_window": "Same-day ticket at gate",
+      "avoid_times": "Midday heat; closed during royal ceremonies",
+      "best_time": "8:30 AM opening",
+      "crowd_pattern": "Very high tourist volume",
+      "duration": "2–3 hours",
+      "guidance": "Strict dress code — rent cover-ups nearby if needed."
+    },
+    "wat_pho": {
+      "name": "Wat Pho (Reclining Buddha)",
+      "booking_required": false,
+      "optimal_booking_window": "Walk-in",
+      "best_time": "Morning after Grand Palace",
+      "duration": "1 hour",
+      "guidance": "Combine with Grand Palace — 10-min walk between sites."
+    }
+  }
+}

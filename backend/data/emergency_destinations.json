@@ -1,0 +1,99 @@
+{
+  "tokyo": { "country": "japan", "city": "tokyo" },
+  "shinjuku": { "country": "japan", "city": "tokyo" },
+  "shibuya": { "country": "japan", "city": "tokyo" },
+  "asakusa": { "country": "japan", "city": "tokyo" },
+  "kyoto": { "country": "japan", "city": "kyoto" },
+  "osaka": { "country": "japan", "city": "osaka" },
+  "nara": { "country": "japan", "city": "kyoto" },
+  "hiroshima": { "country": "japan", "city": "osaka" },
+  "japan": { "country": "japan", "city": "tokyo" },
+
+  "paris": { "country": "france", "city": "paris" },
+  "lyon": { "country": "france", "city": "lyon" },
+  "nice": { "country": "france", "city": "nice" },
+  "marseille": { "country": "france", "city": "marseille" },
+  "france": { "country": "france", "city": "paris" },
+
+  "bangkok": { "country": "thailand", "city": "bangkok" },
+  "phuket": { "country": "thailand", "city": "phuket" },
+  "chiang mai": { "country": "thailand", "city": "chiang_mai" },
+  "chiangmai": { "country": "thailand", "city": "chiang_mai" },
+  "krabi": { "country": "thailand", "city": "phuket" },
+  "thailand": { "country": "thailand", "city": "bangkok" },
+
+  "istanbul": { "country": "turkey", "city": "istanbul" },
+  "cappadocia": { "country": "turkey", "city": "cappadocia" },
+  "antalya": { "country": "turkey", "city": "antalya" },
+  "turkey": { "country": "turkey", "city": "istanbul" },
+  "türkiye": { "country": "turkey", "city": "istanbul" },
+
+  "santorini": { "country": "greece", "city": "santorini" },
+  "athens": { "country": "greece", "city": "athens" },
+  "mykonos": { "country": "greece", "city": "mykonos" },
+  "crete": { "country": "greece", "city": "athens" },
+  "greece": { "country": "greece", "city": "athens" },
+
+  "bali": { "country": "indonesia", "city": "bali" },
+  "ubud": { "country": "indonesia", "city": "ubud" },
+  "seminyak": { "country": "indonesia", "city": "bali" },
+  "jakarta": { "country": "indonesia", "city": "jakarta" },
+  "indonesia": { "country": "indonesia", "city": "bali" },
+
+  "barcelona": { "country": "spain", "city": "barcelona" },
+  "madrid": { "country": "spain", "city": "madrid" },
+  "seville": { "country": "spain", "city": "seville" },
+  "spain": { "country": "spain", "city": "barcelona" },
+
+  "rome": { "country": "italy", "city": "rome" },
+  "venice": { "country": "italy", "city": "venice" },
+  "milan": { "country": "italy", "city": "milan" },
+  "florence": { "country": "italy", "city": "florence" },
+  "italy": { "country": "italy", "city": "rome" },
+
+  "dubai": { "country": "uae", "city": "dubai" },
+  "abu dhabi": { "country": "uae", "city": "abu_dhabi" },
+  "uae": { "country": "uae", "city": "dubai" },
+
+  "singapore": { "country": "singapore", "city": "singapore" },
+
+  "london": { "country": "uk", "city": "london" },
+  "edinburgh": { "country": "uk", "city": "edinburgh" },
+  "uk": { "country": "uk", "city": "london" },
+  "england": { "country": "uk", "city": "london" },
+
+  "new york": { "country": "usa", "city": "new_york" },
+  "nyc": { "country": "usa", "city": "new_york" },
+  "los angeles": { "country": "usa", "city": "los_angeles" },
+  "san francisco": { "country": "usa", "city": "san_francisco" },
+  "usa": { "country": "usa", "city": "new_york" },
+  "united states": { "country": "usa", "city": "new_york" },
+
+  "delhi": { "country": "india", "city": "delhi" },
+  "mumbai": { "country": "india", "city": "mumbai" },
+  "goa": { "country": "india", "city": "goa" },
+  "jaipur": { "country": "india", "city": "jaipur" },
+  "india": { "country": "india", "city": "delhi" },
+
+  "sydney": { "country": "australia", "city": "sydney" },
+  "melbourne": { "country": "australia", "city": "melbourne" },
+  "australia": { "country": "australia", "city": "sydney" },
+
+  "cairo": { "country": "egypt", "city": "cairo" },
+  "egypt": { "country": "egypt", "city": "cairo" },
+
+  "marrakech": { "country": "morocco", "city": "marrakech" },
+  "morocco": { "country": "morocco", "city": "marrakech" },
+
+  "seoul": { "country": "south_korea", "city": "seoul" },
+  "busan": { "country": "south_korea", "city": "busan" },
+  "korea": { "country": "south_korea", "city": "seoul" },
+  "south korea": { "country": "south_korea", "city": "seoul" },
+
+  "ho chi minh": { "country": "vietnam", "city": "ho_chi_minh" },
+  "hanoi": { "country": "vietnam", "city": "hanoi" },
+  "vietnam": { "country": "vietnam", "city": "ho_chi_minh" },
+
+  "kuala lumpur": { "country": "malaysia", "city": "kuala_lumpur" },
+  "malaysia": { "country": "malaysia", "city": "kuala_lumpur" }
+}

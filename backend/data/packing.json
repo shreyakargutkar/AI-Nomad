@@ -1,0 +1,151 @@
+{
+  "spring": {
+    "essentials": [
+      "Light layers (cardigan, light jacket)",
+      "Comfortable walking shoes",
+      "Compact umbrella",
+      "Sunglasses",
+      "SPF 30+ sunscreen"
+    ],
+    "activities": {
+      "beach": ["Swimwear", "Flip-flops", "Beach towel", "Reef-safe sunscreen"],
+      "museum": ["Crossbody bag", "Comfortable closed-toe shoes"],
+      "temple": ["Modest cover-up (shoulders/knees)", "Easy slip-on shoes"],
+      "hiking": ["Trail shoes", "Light rain shell", "Daypack"],
+      "theme_park": ["Comfortable sneakers", "Portable charger", "Light poncho"]
+    },
+    "weather_notes": "Mild temperatures with occasional rain — pack layers you can add or remove."
+  },
+  "summer": {
+    "essentials": [
+      "Breathable cotton/linen clothing",
+      "High SPF 50+ sunscreen",
+      "Reusable water bottle",
+      "Light hat or cap",
+      "Sunglasses"
+    ],
+    "activities": {
+      "beach": ["Swimwear", "Flip-flops", "Waterproof phone pouch", "After-sun lotion"],
+      "museum": ["Light scarf for AC", "Comfortable shoes"],
+      "temple": ["Modest clothing", "Socks for temple floors"],
+      "hiking": ["Moisture-wicking tops", "Hydration pack", "Insect repellent"],
+      "theme_park": ["Hat with strap", "Cooling towel", "Portable fan"]
+    },
+    "weather_notes": "Warm to hot — prioritize sun protection and hydration."
+  },
+  "autumn": {
+    "essentials": [
+      "Medium-weight jacket",
+      "Layered tops",
+      "Comfortable walking shoes",
+      "Light scarf",
+      "Compact umbrella"
+    ],
+    "activities": {
+      "beach": ["Light swimwear", "Windbreaker"],
+      "museum": ["Crossbody bag", "Warm layer for evenings"],
+      "temple": ["Modest layers", "Closed shoes"],
+      "hiking": ["Waterproof boots", "Thermal base layer"],
+      "theme_park": ["Light rain jacket", "Comfortable sneakers"]
+    },
+    "weather_notes": "Cooling temperatures — evenings can be chilly."
+  },
+  "winter": {
+    "essentials": [
+      "Warm coat or insulated jacket",
+      "Thermal base layers",
+      "Gloves and warm hat",
+      "Moisturizer (dry air)",
+      "Lip balm"
+    ],
+    "activities": {
+      "beach": ["Not typical — pack warm layers if coastal"],
+      "museum": ["Warm layers", "Waterproof boots"],
+      "temple": ["Warm modest clothing", "Hand warmers"],
+      "hiking": ["Insulated jacket", "Wool socks", "Trekking poles"],
+      "theme_park": ["Thermal layers", "Hand warmers", "Waterproof boots"]
+    },
+    "weather_notes": "Cold conditions — prioritize warmth and waterproof footwear."
+  },
+  "tropical": {
+    "essentials": [
+      "Lightweight clothing (cotton/linen)",
+      "Swimwear",
+      "Sun hat or cap",
+      "Sunglasses",
+      "High SPF sunscreen (50+)",
+      "Insect repellent"
+    ],
+    "activities": {
+      "beach": ["Flip-flops", "Beach towel", "Waterproof phone case", "Snorkel gear (optional)"],
+      "hiking": ["Hiking shoes", "Moisture-wicking clothes", "First aid kit"],
+      "city": ["Comfortable walking shoes", "Light jacket for AC"],
+      "temple": ["Sarong or cover-up", "Modest temple attire"]
+    },
+    "weather_notes": "High humidity (70–90%) and temperatures 25–35°C."
+  },
+  "temperate": {
+    "essentials": [
+      "Layered clothing (light sweater, jacket)",
+      "Comfortable walking shoes",
+      "Umbrella or light rain jacket",
+      "Sunscreen"
+    ],
+    "activities": {
+      "museum": ["Comfortable shoes", "Crossbody bag for security"],
+      "hiking": ["Sturdy shoes", "Light backpack"],
+      "nightlife": ["Smart casual outfit", "Light jacket"],
+      "theme_park": ["Comfortable sneakers", "Portable charger"]
+    },
+    "weather_notes": "Variable 10–25°C — pack layers."
+  },
+  "cold": {
+    "essentials": [
+      "Heavy coat/jacket",
+      "Thermal underwear",
+      "Warm hat and gloves",
+      "Insulated boots",
+      "Moisturizer for dry air"
+    ],
+    "activities": {
+      "skiing": ["Ski jacket", "Ski pants", "Neck gaiter"],
+      "city": ["Warm layers", "Waterproof shoes"]
+    },
+    "weather_notes": "Below 10°C — prepare for snow and icy conditions in northern regions."
+  },
+  "universal": {
+    "documents": ["Passport (6+ months validity)", "Travel insurance documents", "Flight/hotel confirmations", "Visa printouts if required"],
+    "electronics": ["Universal power adapter", "Power bank", "Headphones", "Offline maps downloaded"],
+    "health": ["Personal medications", "Hand sanitizer", "Basic first aid kit"],
+    "notes": "Research local payment habits — cash is still preferred in many destinations."
+  },
+  "activity_keywords": {
+    "beach": ["beach", "snorkel", "diving", "scuba", "island", "coast"],
+    "museum": ["museum", "louvre", "orsay", "gallery", "art"],
+    "temple": ["temple", "shrine", "wat", "monastery", "palace", "grand palace"],
+    "hiking": ["hike", "trail", "mountain", "trek"],
+    "theme_park": ["disney", "universal", "theme park", "amusement"]
+  },
+  "destination_tips": {
+    "japan": [
+      "Carry cash — many smaller stores and restaurants in Japan prefer cash over cards.",
+      "Pack slip-on shoes — you'll remove them frequently at temples, ryokans, and some restaurants.",
+      "Bring a small towel — not all public restrooms provide hand dryers or towels."
+    ],
+    "france": [
+      "Dress smart-casual for nicer restaurants — athleisure stands out in Paris dining rooms.",
+      "Keep a photocopy of your passport separate from the original.",
+      "Sunday closures are common — plan shopping for weekdays."
+    ],
+    "thailand": [
+      "Pack modest temple clothing — cover shoulders and knees at wats and the Grand Palace.",
+      "Use reef-safe sunscreen if island-hopping.",
+      "Bring stomach medicine — street food is amazing but your system may need adjustment."
+    ],
+    "greece": [
+      "Sturdy sandals with grip for cobblestone streets in Santorini and Athens.",
+      "White clothing shows dust quickly — pack a stain pen.",
+      "Sun protection is critical on open archaeological sites."
+    ]
+  }
+}

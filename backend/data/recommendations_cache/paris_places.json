@@ -1,0 +1,637 @@
+{
+  "cached_at": 1792861931.8779619,
+  "places": [
+    {
+      "id": "osm_node_53662739",
+      "name": "Paris 4e Arrondissement",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 0.3,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 48,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 48.8541039,
+      "lon": 2.3514895,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_12403457895",
+      "name": "Crêperie du Cloître",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.4,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 49,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8534665,
+      "lon": 2.34987,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_677597945",
+      "name": "Aux Tours de Notre-Dame",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.4,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 49,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.853629,
+      "lon": 2.3494187,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_12726980981",
+      "name": "L'ombre de Notre-Dame",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.4,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 49,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8535513,
+      "lon": 2.3496195,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_1913411918",
+      "name": "Trésor de Notre-Dame",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 51,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8526313,
+      "lon": 2.3500601,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_910390736",
+      "name": "Conciergerie",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 51,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8559492,
+      "lon": 2.3460263,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_20444455",
+      "name": "Square Jean XXIII",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 0.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 51,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 48.8523474,
+      "lon": 2.3512693,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_9146864043",
+      "name": "Hon Ki",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.6,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 52,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8519867,
+      "lon": 2.3484797,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_9146864044",
+      "name": "Le Grenier de Notre Dame",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.6,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 52,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8519408,
+      "lon": 2.3485327,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_321932192",
+      "name": "Café Panis",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.6,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 52,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8522009,
+      "lon": 2.3483718,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_6862359885",
+      "name": "Shakespeare and Company Café",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.6,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 52,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8525298,
+      "lon": 2.3472477,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_236820131",
+      "name": "Square René Viviani",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 0.6,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 52,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 48.8521218,
+      "lon": 2.3475389,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_1426816232",
+      "name": "Musée de la Préfecture de police",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 54,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8494311,
+      "lon": 2.3483534,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_11209951498",
+      "name": "Musée social",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.2,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 71,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8578592,
+      "lon": 2.321811,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_5221114450",
+      "name": "Mon Square",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.3,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 72,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 48.8590248,
+      "lon": 2.3203015,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_77708549",
+      "name": "Square Samuel Rousseau",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 2.4,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 73,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 48.8590285,
+      "lon": 2.3197082,
+      "osm_tags": {}
+    }
+  ]
+}

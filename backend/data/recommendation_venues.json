@@ -1,0 +1,287 @@
+{
+  "kyoto": {
+    "display_name": "Kyoto",
+    "venues": [
+      {
+        "id": "fushimi_inari",
+        "name": "Fushimi Inari shrine gates",
+        "categories": ["outdoor", "culture", "nature"],
+        "time_bands": ["morning", "afternoon"],
+        "weather_scores": { "clear": 1.0, "cloudy": 0.85, "rain": 0.25, "snow": 0.4 },
+        "indoor_outdoor": "outdoor",
+        "distance_km": 4.2,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "small_group"],
+        "duration_min": 120,
+        "crowd": "high",
+        "availability": "open_now",
+        "why_templates": {
+          "clear_afternoon": "Clear afternoon light on the torii — go before 4 PM crowds build.",
+          "rain": "Exposed mountain path — poor fit in rain; consider later if weather clears."
+        }
+      },
+      {
+        "id": "philosopher_path",
+        "name": "Philosopher's Path to Ginkaku-ji",
+        "categories": ["outdoor", "culture", "walk"],
+        "time_bands": ["morning", "afternoon"],
+        "weather_scores": { "clear": 1.0, "cloudy": 0.8, "rain": 0.15, "snow": 0.5 },
+        "indoor_outdoor": "outdoor",
+        "distance_km": 3.8,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "small_group"],
+        "duration_min": 90,
+        "crowd": "moderate",
+        "availability": "open_now",
+        "why_templates": {
+          "clear_afternoon": "Best walked in sunshine — cherry-lined canal, 2 km loop.",
+          "moving": "Quick scenic loop while you're already on the move."
+        }
+      },
+      {
+        "id": "pontocho",
+        "name": "Ponto-chō lantern alley dinner",
+        "categories": ["food", "culture", "evening", "cozy"],
+        "time_bands": ["evening", "late_night"],
+        "weather_scores": { "clear": 0.75, "cloudy": 0.8, "rain": 0.95, "snow": 0.7 },
+        "indoor_outdoor": "covered",
+        "distance_km": 0.9,
+        "budget_tier": "mid",
+        "group_sizes": ["couple", "small_group"],
+        "duration_min": 90,
+        "crowd": "moderate",
+        "availability": "walk_in",
+        "why_templates": {
+          "rain_evening": "Rain-safe covered alleys — intimate izakayas glow after 8 PM.",
+          "evening": "Kyoto's classic evening food lane — lanterns peak at night."
+        }
+      },
+      {
+        "id": "nishiki_market",
+        "name": "Nishiki Market covered arcades",
+        "categories": ["food", "culture", "cozy"],
+        "time_bands": ["morning", "afternoon", "evening"],
+        "weather_scores": { "clear": 0.7, "cloudy": 0.85, "rain": 0.98, "snow": 0.9 },
+        "indoor_outdoor": "covered",
+        "distance_km": 1.1,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "family", "small_group"],
+        "duration_min": 60,
+        "crowd": "high",
+        "availability": "open_now",
+        "why_templates": {
+          "rain": "Fully covered — street food and pickles without getting wet.",
+          "moving": "Grab bites while moving — stalls don't need a reservation."
+        }
+      },
+      {
+        "id": "kyoto_national_museum",
+        "name": "Kyoto National Museum",
+        "categories": ["culture", "indoor", "cozy"],
+        "time_bands": ["morning", "afternoon"],
+        "weather_scores": { "clear": 0.6, "cloudy": 0.75, "rain": 1.0, "snow": 0.95 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 2.5,
+        "budget_tier": "mid",
+        "group_sizes": ["solo", "couple", "family", "small_group"],
+        "duration_min": 120,
+        "crowd": "low",
+        "availability": "open_now",
+        "why_templates": {
+          "rain": "Perfect rainy-day pivot — climate-controlled and unhurried.",
+          "family": "Quiet galleries; easy with kids when outdoor plans cancel."
+        }
+      },
+      {
+        "id": "gion_night_walk",
+        "name": "Gion district evening walk",
+        "categories": ["culture", "evening", "outdoor"],
+        "time_bands": ["evening"],
+        "weather_scores": { "clear": 0.95, "cloudy": 0.8, "rain": 0.35, "snow": 0.5 },
+        "indoor_outdoor": "outdoor",
+        "distance_km": 1.4,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "small_group"],
+        "duration_min": 45,
+        "crowd": "high",
+        "availability": "open_now",
+        "why_templates": {
+          "clear_evening": "Geisha district at dusk — clear skies mean better photos.",
+          "rain_evening": "Stone lanes get slick — swap for covered Ponto-chō instead."
+        }
+      },
+      {
+        "id": "jazz_bar_kyoto",
+        "name": "Blue Note adjacent jazz kissaten",
+        "categories": ["nightlife", "indoor", "cozy", "food"],
+        "time_bands": ["evening", "late_night"],
+        "weather_scores": { "clear": 0.6, "cloudy": 0.7, "rain": 0.92, "snow": 0.85 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 1.0,
+        "budget_tier": "mid",
+        "group_sizes": ["couple", "solo"],
+        "duration_min": 90,
+        "crowd": "low",
+        "availability": "walk_in",
+        "why_templates": {
+          "rain_late": "Dry, intimate, open past 10 — ideal rainy Tuesday night.",
+          "late_night": "Kyoto quiet after 9 PM — this stays alive."
+        }
+      },
+      {
+        "id": "arashiyama_bamboo",
+        "name": "Arashiyama bamboo grove",
+        "categories": ["outdoor", "nature", "culture"],
+        "time_bands": ["morning", "afternoon"],
+        "weather_scores": { "clear": 1.0, "cloudy": 0.85, "rain": 0.2, "snow": 0.45 },
+        "indoor_outdoor": "outdoor",
+        "distance_km": 8.5,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "family"],
+        "duration_min": 75,
+        "crowd": "high",
+        "availability": "open_now",
+        "why_templates": {
+          "clear_morning": "Go before 9 AM Saturday crowds — best in clear morning light.",
+          "rain": "Muddy paths, no shelter — skip until dry."
+        }
+      },
+      {
+        "id": "onsen_near_gion",
+        "name": "Local sentō / onsen soak",
+        "categories": ["wellness", "indoor", "cozy"],
+        "time_bands": ["evening", "late_night", "afternoon"],
+        "weather_scores": { "clear": 0.5, "cloudy": 0.65, "rain": 0.95, "snow": 1.0 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 2.0,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple"],
+        "duration_min": 60,
+        "crowd": "low",
+        "availability": "open_now",
+        "why_templates": {
+          "rain_evening": "Warm soak beats wet streets — classic Kyoto rainy-night move.",
+          "snow": "Snow outside, heat inside — peak winter comfort."
+        }
+      },
+      {
+        "id": "tea_ceremony_hut",
+        "name": "Camellia Garden tea ceremony",
+        "categories": ["culture", "indoor", "cozy"],
+        "time_bands": ["morning", "afternoon"],
+        "weather_scores": { "clear": 0.7, "cloudy": 0.8, "rain": 0.9, "snow": 0.85 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 1.8,
+        "budget_tier": "mid",
+        "group_sizes": ["couple", "solo", "small_group"],
+        "duration_min": 45,
+        "crowd": "low",
+        "availability": "booking_required",
+        "why_templates": {
+          "rain": "45 min indoors — bookable same-day when outdoor plans wash out.",
+          "stationary": "You're nearby and still — perfect for a slow ritual."
+        }
+      }
+    ]
+  },
+  "tokyo": {
+    "display_name": "Tokyo",
+    "venues": [
+      {
+        "id": "teamlab_planets",
+        "name": "teamLab Planets",
+        "categories": ["culture", "indoor", "cozy"],
+        "time_bands": ["morning", "afternoon", "evening"],
+        "weather_scores": { "clear": 0.65, "cloudy": 0.75, "rain": 1.0, "snow": 0.9 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 5.0,
+        "budget_tier": "mid",
+        "group_sizes": ["solo", "couple", "family", "small_group"],
+        "duration_min": 90,
+        "crowd": "high",
+        "availability": "booking_required",
+        "why_templates": { "rain": "Rain-proof immersive art — timed entry keeps crowds predictable." }
+      },
+      {
+        "id": "shinjuku_golden_gai",
+        "name": "Golden Gai micro-bars",
+        "categories": ["nightlife", "food", "evening"],
+        "time_bands": ["evening", "late_night"],
+        "weather_scores": { "clear": 0.7, "cloudy": 0.75, "rain": 0.88, "snow": 0.8 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 0.5,
+        "budget_tier": "mid",
+        "group_sizes": ["solo", "couple"],
+        "duration_min": 60,
+        "crowd": "moderate",
+        "availability": "walk_in",
+        "why_templates": { "late_night": "Tiny bars wake up after 9 PM — last trains matter, stay close." }
+      },
+      {
+        "id": "yoyogi_park",
+        "name": "Yoyogi Park stroll",
+        "categories": ["outdoor", "nature", "walk"],
+        "time_bands": ["morning", "afternoon"],
+        "weather_scores": { "clear": 1.0, "cloudy": 0.8, "rain": 0.1, "snow": 0.3 },
+        "indoor_outdoor": "outdoor",
+        "distance_km": 2.2,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "family"],
+        "duration_min": 60,
+        "crowd": "moderate",
+        "availability": "open_now",
+        "why_templates": { "clear_afternoon": "Sunny Saturday energy — street performers near Harajuku gate." }
+      }
+    ]
+  },
+  "paris": {
+    "display_name": "Paris",
+    "venues": [
+      {
+        "id": "louvre_evening",
+        "name": "Louvre Museum",
+        "categories": ["culture", "indoor"],
+        "time_bands": ["morning", "afternoon", "evening"],
+        "weather_scores": { "clear": 0.6, "cloudy": 0.7, "rain": 1.0, "snow": 0.95 },
+        "indoor_outdoor": "indoor",
+        "distance_km": 2.0,
+        "budget_tier": "mid",
+        "group_sizes": ["solo", "couple", "family", "small_group"],
+        "duration_min": 180,
+        "crowd": "high",
+        "availability": "booking_required",
+        "why_templates": { "rain": "Classic Paris rain move — book ahead for Friday night extended hours." }
+      },
+      {
+        "id": "seine_river_walk",
+        "name": "Seine riverbank walk",
+        "categories": ["outdoor", "walk", "culture"],
+        "time_bands": ["afternoon", "evening"],
+        "weather_scores": { "clear": 1.0, "cloudy": 0.75, "rain": 0.15, "snow": 0.25 },
+        "indoor_outdoor": "outdoor",
+        "distance_km": 1.5,
+        "budget_tier": "budget",
+        "group_sizes": ["solo", "couple", "small_group"],
+        "duration_min": 45,
+        "crowd": "moderate",
+        "availability": "open_now",
+        "why_templates": { "clear_evening": "Golden hour on the Left Bank — clear skies only." }
+      },
+      {
+        "id": "covered_passages",
+        "name": "19th-century covered passages",
+        "categories": ["culture", "cozy", "food", "walk"],
+        "time_bands": ["morning", "afternoon", "evening"],
+        "weather_scores": { "clear": 0.55, "cloudy": 0.7, "rain": 0.98, "snow": 0.9 },
+        "indoor_outdoor": "covered",
+        "distance_km": 1.8,
+        "budget_tier": "mid",
+        "group_sizes": ["solo", "couple", "small_group"],
+        "duration_min": 75,
+        "crowd": "low",
+        "availability": "open_now",
+        "why_templates": { "rain": "Glass-roofed galleries — Paris invented the rainy-day stroll." }
+      }
+    ]
+  }
+}

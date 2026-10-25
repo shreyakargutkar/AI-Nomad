@@ -1,0 +1,313 @@
+{
+  "japan": {
+    "tokyo": {
+      "display_name": "Tokyo",
+      "essentials": {
+        "hospital": { "name": "St. Luke's International Hospital", "distance": "2.4 km", "note": "English-speaking staff, 24/7 ER" },
+        "pharmacy": { "name": "Matsumoto Kiyoshi (Shinjuku East)", "distance": "450 m", "note": "OTC meds, English labels on many items" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Last train timing trap", "body": "Missing the last Yamanote/Metro train (~midnight) forces ¥5,000+ taxi rides from Shinjuku or Roppongi.", "severity": "high" }
+      ]
+    },
+    "kyoto": {
+      "display_name": "Kyoto",
+      "essentials": {
+        "hospital": { "name": "Kyoto University Hospital", "distance": "3.1 km", "note": "Major ER; limited English — bring translation app" },
+        "pharmacy": { "name": "Sugi Pharmacy (Kawaramachi)", "distance": "300 m", "note": "Central Higashiyama access" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Geisha photo fee scam", "body": "Unlicensed 'geisha' near Gion may demand ¥10,000+ after photos — real maiko rarely pose on street.", "severity": "medium" }
+      ]
+    },
+    "osaka": {
+      "display_name": "Osaka",
+      "essentials": {
+        "hospital": { "name": "Osaka University Hospital", "distance": "4.2 km", "note": "24/7 emergency department" },
+        "pharmacy": { "name": "Tsuruha Drug (Dotonbori)", "distance": "200 m", "note": "Open late near Namba" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Dotonbori overpriced bars", "body": "Touts offering 'cheap drinks' may add hidden cover charges — check menu prices before entering.", "severity": "medium" }
+      ]
+    }
+  },
+  "france": {
+    "paris": {
+      "display_name": "Paris",
+      "essentials": {
+        "hospital": { "name": "Hôpital Américain de Paris", "distance": "5.1 km", "note": "English ER, private" },
+        "pharmacy": { "name": "Pharmacie des Champs (24h)", "distance": "1.2 km", "note": "Green cross = pharmacy" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Pickpocket zones", "body": "Metro Line 1, RER B to CDG, Trocadéro, Sacré-Cœur stairs — bags in front, zippers closed.", "severity": "high" }
+      ]
+    },
+    "lyon": {
+      "display_name": "Lyon",
+      "essentials": {
+        "hospital": { "name": "Hôpital Édouard Herriot", "distance": "2.8 km", "note": "Major public hospital" },
+        "pharmacy": { "name": "Pharmacie de la République", "distance": "400 m", "note": "Presqu'île central" }
+      }
+    },
+    "nice": {
+      "display_name": "Nice",
+      "essentials": {
+        "hospital": { "name": "Centre Hospitalier Universitaire de Nice", "distance": "3.5 km", "note": "Main regional ER" },
+        "pharmacy": { "name": "Pharmacie Anglaise (Promenade)", "distance": "600 m", "note": "Near Old Town" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Beach chair rental overcharge", "body": "Always confirm price before sitting — some operators charge €30+ without clear signage.", "severity": "medium" }
+      ]
+    }
+  },
+  "thailand": {
+    "bangkok": {
+      "display_name": "Bangkok",
+      "essentials": {
+        "hospital": { "name": "Bumrungrad International Hospital", "distance": "4.8 km", "note": "Major tourist hospital, English" },
+        "pharmacy": { "name": "Boots Pharmacy (Siam Paragon)", "distance": "800 m", "note": "Reliable chain" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Tuk-tuk 'temple closed' scam", "body": "Driver says Grand Palace is closed — it is almost always open mornings. Walk to official entrance.", "severity": "high" }
+      ]
+    },
+    "phuket": {
+      "display_name": "Phuket",
+      "essentials": {
+        "hospital": { "name": "Bangkok Hospital Phuket", "distance": "5.2 km", "note": "International patient desk" },
+        "pharmacy": { "name": "Pharmacy House (Patong)", "distance": "350 m", "note": "Common tourist area" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Jet ski damage scam", "body": "Photograph jet skis before use — pre-existing scratches are often blamed on renters.", "severity": "high" }
+      ]
+    },
+    "chiang_mai": {
+      "display_name": "Chiang Mai",
+      "essentials": {
+        "hospital": { "name": "Chiang Mai Ram Hospital", "distance": "2.1 km", "note": "English-speaking staff common" },
+        "pharmacy": { "name": "Boots (Nimman)", "distance": "500 m", "note": "Near old city north gate" }
+      }
+    }
+  },
+  "turkey": {
+    "istanbul": {
+      "display_name": "Istanbul",
+      "essentials": {
+        "hospital": { "name": "American Hospital Istanbul", "distance": "3.2 km", "note": "English ER" },
+        "pharmacy": { "name": "Eczane (Sultanahmet)", "distance": "200 m", "note": "Eczane sign = pharmacy" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Currency conversion scams", "body": "Unlicensed booths near Sultanahmet — use Ziraat ATMs, decline DCC.", "severity": "high" }
+      ]
+    },
+    "cappadocia": {
+      "display_name": "Cappadocia",
+      "essentials": {
+        "hospital": { "name": "Nevşehir State Hospital", "distance": "8 km", "note": "Nearest major ER to Göreme" },
+        "pharmacy": { "name": "Eczane Göreme", "distance": "150 m", "note": "Central cave hotel zone" }
+      }
+    }
+  },
+  "greece": {
+    "athens": {
+      "display_name": "Athens",
+      "essentials": {
+        "hospital": { "name": "Evangelismos General Hospital", "distance": "2.5 km", "note": "Largest public hospital in Athens" },
+        "pharmacy": { "name": "Pharmacy Syntagma (24h rotation)", "distance": "400 m", "note": "Check green cross for on-duty pharmacy" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Acropolis ticket resellers", "body": "Buy only from official website or on-site kiosks — street sellers often charge 2× for invalid tickets.", "severity": "medium" }
+      ]
+    },
+    "santorini": {
+      "display_name": "Santorini",
+      "essentials": {
+        "hospital": { "name": "Santorini General Hospital (Karterados)", "distance": "4 km", "note": "Limited ER — serious cases may airlift to Athens" },
+        "pharmacy": { "name": "Pharmacy Fira Central", "distance": "250 m", "note": "Main caldera town" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Donkey ride overpricing", "body": "Confirm round-trip price before Fira–Old Port donkey ride — disputes common at the bottom.", "severity": "medium" }
+      ]
+    },
+    "mykonos": {
+      "display_name": "Mykonos",
+      "essentials": {
+        "hospital": { "name": "Mykonos Health Center", "distance": "3 km", "note": "Basic ER; complex cases transferred to Syros/Athens" },
+        "pharmacy": { "name": "Pharmacy Mykonos Town", "distance": "300 m", "note": "Chora center" }
+      }
+    }
+  },
+  "indonesia": {
+    "bali": {
+      "display_name": "Bali (Seminyak/Kuta)",
+      "essentials": {
+        "hospital": { "name": "BIMC Hospital Kuta", "distance": "2.3 km", "note": "International clinic, English widely spoken" },
+        "pharmacy": { "name": "Guardian Pharmacy (Beachwalk)", "distance": "600 m", "note": "Reliable chain" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Unlicensed money changers", "body": "Street changers on Jalan Legian use sleight-of-hand — use authorized booths with posted rates only.", "severity": "high" },
+        { "title": "Scooter rental damage claims", "body": "Video-document scratches before riding — common scam at cheap rental shops.", "severity": "high" }
+      ]
+    },
+    "ubud": {
+      "display_name": "Ubud",
+      "essentials": {
+        "hospital": { "name": "Ubud Clinic / Siloam (Denpasar for ER)", "distance": "35 km to Siloam", "note": "Minor care in Ubud; serious trauma → Denpasar" },
+        "pharmacy": { "name": "Kimia Farma Ubud", "distance": "400 m", "note": "Central monkey forest road" }
+      }
+    },
+    "jakarta": {
+      "display_name": "Jakarta",
+      "essentials": {
+        "hospital": { "name": "Siloam Hospitals TB Simatupang", "distance": "6 km", "note": "International standard ER" },
+        "pharmacy": { "name": "Kimia Farma (Sudirman)", "distance": "500 m", "note": "CBD area" }
+      }
+    }
+  },
+  "spain": {
+    "barcelona": {
+      "display_name": "Barcelona",
+      "essentials": {
+        "hospital": { "name": "Hospital Clínic de Barcelona", "distance": "2.2 km", "note": "Major public ER" },
+        "pharmacy": { "name": "Farmacia Rambla 24h rotation", "distance": "350 m", "note": "Farmacia green cross" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Las Ramblas pickpockets", "body": "La Boqueria, metro L3, and beach promenade — teams work in groups; never leave phone on table.", "severity": "high" }
+      ]
+    },
+    "madrid": {
+      "display_name": "Madrid",
+      "essentials": {
+        "hospital": { "name": "Hospital La Paz", "distance": "4 km", "note": "Large public hospital" },
+        "pharmacy": { "name": "Farmacia Puerta del Sol", "distance": "200 m", "note": "Central" }
+      }
+    }
+  },
+  "italy": {
+    "rome": {
+      "display_name": "Rome",
+      "essentials": {
+        "hospital": { "name": "Policlinico Umberto I", "distance": "3 km", "note": "Major ER near Termini" },
+        "pharmacy": { "name": "Farmacia Internazionale (Termini)", "distance": "150 m", "note": "24h near station" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Colosseum skip-the-line fake guides", "body": "Only official co-opce.it partners sell valid skip passes — ignore aggressive sellers at Metro exit.", "severity": "high" },
+        { "title": "Restaurant cover charge surprise", "body": "Coperto/service not always on menu board — ask before sitting at tourist squares.", "severity": "medium" }
+      ]
+    },
+    "venice": {
+      "display_name": "Venice",
+      "essentials": {
+        "hospital": { "name": "Ospedale dell'Angelo Mestre", "distance": "12 km", "note": "Main ER — vaporetto to Piazzale Roma then taxi" },
+        "pharmacy": { "name": "Farmacia San Marco", "distance": "400 m", "note": "San Marco district" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Gondola price ambiguity", "body": "Official daytime rate is posted — agree route and price before boarding; avoid 'special tour' upsells.", "severity": "medium" }
+      ]
+    }
+  },
+  "uae": {
+    "dubai": {
+      "display_name": "Dubai",
+      "essentials": {
+        "hospital": { "name": "American Hospital Dubai", "distance": "5 km", "note": "English-first care" },
+        "pharmacy": { "name": "Boots Pharmacy (Dubai Mall)", "distance": "1 km", "note": "Chain, reliable" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Desert safari hidden charges", "body": "Confirm quad bike/dinner package in writing — bait-and-switch at camp common.", "severity": "medium" }
+      ]
+    }
+  },
+  "singapore": {
+    "singapore": {
+      "display_name": "Singapore",
+      "essentials": {
+        "hospital": { "name": "Singapore General Hospital", "distance": "3 km", "note": "Major public ER" },
+        "pharmacy": { "name": "Guardian (Orchard Road)", "distance": "500 m", "note": "Widely available chain" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Orchard Road fake charity", "body": "Aggressive clipboard sign-ups — legitimate charities won't block sidewalks.", "severity": "low" }
+      ]
+    }
+  },
+  "uk": {
+    "london": {
+      "display_name": "London",
+      "essentials": {
+        "hospital": { "name": "St Thomas' Hospital (Westminster)", "distance": "2 km", "note": "Major NHS ER — expect waits" },
+        "pharmacy": { "name": "Boots Pharmacy (Piccadilly Circus)", "distance": "400 m", "note": "Late hours" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Oxford Street / Tube pickpockets", "body": "District Line, Oxford Circus — bags zipped, phone not in back pocket.", "severity": "high" }
+      ]
+    }
+  },
+  "usa": {
+    "new_york": {
+      "display_name": "New York City",
+      "essentials": {
+        "hospital": { "name": "NYU Langone Emergency", "distance": "3.5 km", "note": "24/7 ER; bring insurance card" },
+        "pharmacy": { "name": "CVS Pharmacy (Times Square)", "distance": "600 m", "note": "Many 24h locations" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Times Square CD/mascot pressure", "body": "Costumed characters demand tips after photos — say no and keep walking.", "severity": "medium" },
+        { "title": "Fake ticket sellers", "body": "Buy Statue of Liberty & Broadway tickets only from official sites or box office.", "severity": "high" }
+      ]
+    }
+  },
+  "india": {
+    "delhi": {
+      "display_name": "Delhi",
+      "essentials": {
+        "hospital": { "name": "Max Super Speciality Hospital Saket", "distance": "8 km", "note": "Private ER, English common" },
+        "pharmacy": { "name": "Apollo Pharmacy (Connaught Place)", "distance": "500 m", "note": "Trusted chain" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Auto-rickshaw 'closed monument' route", "body": "Drivers redirect to commission shops — use Uber/Ola or metro to official site.", "severity": "high" }
+      ]
+    },
+    "goa": {
+      "display_name": "Goa",
+      "essentials": {
+        "hospital": { "name": "Goa Medical College (Bambolim)", "distance": "15 km from Calangute", "note": "Main state ER" },
+        "pharmacy": { "name": "MedPlus Calangute", "distance": "300 m", "note": "Beach belt" }
+      }
+    }
+  },
+  "australia": {
+    "sydney": {
+      "display_name": "Sydney",
+      "essentials": {
+        "hospital": { "name": "St Vincent's Hospital Darlinghurst", "distance": "2 km", "note": "Major ER near CBD" },
+        "pharmacy": { "name": "Chemist Warehouse (Town Hall)", "distance": "400 m", "note": "Late hours" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Bondi rental bike deposit trap", "body": "Document bike condition — disputed damage charges at some rental kiosks.", "severity": "medium" }
+      ]
+    }
+  },
+  "south_korea": {
+    "seoul": {
+      "display_name": "Seoul",
+      "essentials": {
+        "hospital": { "name": "Seoul National University Hospital", "distance": "4 km", "note": "Top tier ER; translation apps help" },
+        "pharmacy": { "name": "Olive Young (Myeongdong)", "distance": "300 m", "note": "OTC + basics" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Itaewon bar overcharging", "body": "Check drink prices on menu before ordering — tourist bars occasionally pad bills.", "severity": "medium" }
+      ]
+    }
+  },
+  "vietnam": {
+    "ho_chi_minh": {
+      "display_name": "Ho Chi Minh City",
+      "essentials": {
+        "hospital": { "name": "FV Hospital", "distance": "5 km", "note": "International standard, English" },
+        "pharmacy": { "name": "Pharmacity (District 1)", "distance": "400 m", "note": "Reliable chain" }
+      },
+      "scam_warnings_extra": [
+        { "title": "Motorbike taxi wrong change", "body": "Count change before xe om rides away — 500k vs 20k note confusion is common.", "severity": "medium" }
+      ]
+    }
+  }
+}

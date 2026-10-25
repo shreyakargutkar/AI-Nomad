@@ -1,0 +1,1977 @@
+{
+  "cached_at": 1780123197.469802,
+  "places": [
+    {
+      "id": "osm_node_561587156",
+      "name": "Gusto",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.4,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 49,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6724496,
+      "lon": 139.6516679,
+      "osm_tags": {
+        "amenity": "restaurant",
+        "opening_hours": "09:00-03:00"
+      }
+    },
+    {
+      "id": "osm_node_614596305",
+      "name": "稲毛屋",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.5,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 51,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.676873,
+      "lon": 139.644367,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_429701595",
+      "name": "永福町 大勝軒",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.6,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 52,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6762351,
+      "lon": 139.644008,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1658573953",
+      "name": "ゆうやけこやけ",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.7,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 53,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.669902,
+      "lon": 139.6504647,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_429706628",
+      "name": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 54,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6690479,
+      "lon": 139.6500268,
+      "osm_tags": {
+        "amenity": "cafe",
+        "opening_hours": "Mo-Su 07:30-22:00"
+      }
+    },
+    {
+      "id": "osm_node_428420257",
+      "name": "ダンダダン",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 54,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6687039,
+      "lon": 139.6509973,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_563667401",
+      "name": "方南図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.9,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 55,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6790552,
+      "lon": 139.6600719,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1658529419",
+      "name": "くろかん",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.9,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 55,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6685252,
+      "lon": 139.6514499,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_1658582247",
+      "name": "わたみん家",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.9,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 55,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.668037,
+      "lon": 139.6499477,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_1420782153",
+      "name": "杉並区立永福図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.0,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 57,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.680747,
+      "lon": 139.64076,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_601599341",
+      "name": "安安",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.4,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 61,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6656283,
+      "lon": 139.6412477,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_601471382",
+      "name": "Kohraku",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.5,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 63,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.665981,
+      "lon": 139.6398796,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1035580618",
+      "name": "Tarafuku",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 63,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6651374,
+      "lon": 139.641037,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_1658379012",
+      "name": "Shoya",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 63,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6628771,
+      "lon": 139.6550016,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_573353083",
+      "name": "BHARAT",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.7,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 65,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6773444,
+      "lon": 139.6691871,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1420766448",
+      "name": "中野区立南台図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.7,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 65,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.685372,
+      "lon": 139.665707,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1420766047",
+      "name": "Daita Library",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 66,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.662842,
+      "lon": 139.660662,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_897445502",
+      "name": "月見湯温泉",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 1.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 66,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6654718,
+      "lon": 139.6359584,
+      "osm_tags": {
+        "amenity": "public_bath"
+      }
+    },
+    {
+      "id": "osm_node_480772805",
+      "name": "百周年記念館",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.0,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 69,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.663664,
+      "lon": 139.6343009,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_1119948775",
+      "name": "佼成図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.0,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 69,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.689901,
+      "lon": 139.6649835,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1349360018",
+      "name": "文理学部図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.0,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 69,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6631867,
+      "lon": 139.6356502,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_428802455",
+      "name": "Karayoshi",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.1,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 70,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6816901,
+      "lon": 139.6277456,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_651592515",
+      "name": "es Cafe / Dining",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.1,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 70,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6627235,
+      "lon": 139.6661739,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1139430106",
+      "name": "さくら",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.1,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 70,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6659311,
+      "lon": 139.670118,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_598171376",
+      "name": "高円寺肉汁うどん",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.2,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 71,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6920067,
+      "lon": 139.636379,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_600300493",
+      "name": "おかめ",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.3,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 72,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6822192,
+      "lon": 139.6255537,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_1248392079",
+      "name": "夢一門",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.3,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 72,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.682194,
+      "lon": 139.6256544,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_528241107",
+      "name": "Gyoza no Ohsho",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.4,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 73,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6590718,
+      "lon": 139.6673269,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_600301046",
+      "name": "いろは鮨",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.4,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 73,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6833866,
+      "lon": 139.625775,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1420766042",
+      "name": "世田谷区立上北沢図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.4,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 73,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.667574,
+      "lon": 139.625616,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1420782142",
+      "name": "杉並区立成田図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.4,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 73,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6950403,
+      "lon": 139.6374605,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_469202585",
+      "name": "Jonathan's",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.5,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 75,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6979109,
+      "lon": 139.6437171,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_598384982",
+      "name": "新曻飯店",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.5,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 75,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6691772,
+      "lon": 139.6244946,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1420782167",
+      "name": "杉並区立高井戸図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 75,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6816186,
+      "lon": 139.6229575,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_599241166",
+      "name": "Cucina tirolese per famiglie",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.6,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 76,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6527347,
+      "lon": 139.6496871,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_693139303",
+      "name": "まる吉",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.6,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 76,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6583875,
+      "lon": 139.6680886,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_631610624",
+      "name": "Bamiyan",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.7,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 77,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6558954,
+      "lon": 139.667624,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1420782170",
+      "name": "杉並区立高円寺図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.7,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 77,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.700353,
+      "lon": 139.654111,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1591816760",
+      "name": "串焼道場 一本",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.7,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 77,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6908386,
+      "lon": 139.6257779,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_307676124",
+      "name": "Folks",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6523308,
+      "lon": 139.6605397,
+      "osm_tags": {
+        "amenity": "restaurant",
+        "opening_hours": "11:00-24:00"
+      }
+    },
+    {
+      "id": "osm_node_693142223",
+      "name": "中華丸長",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6554713,
+      "lon": 139.6673447,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1599414333",
+      "name": "やきとり 大吉",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.9,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 79,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.7002952,
+      "lon": 139.6617066,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_604230479",
+      "name": "真木",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.0,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 81,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6679434,
+      "lon": 139.6820721,
+      "osm_tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "id": "osm_node_1019753403",
+      "name": "柳亭",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.0,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 81,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.7034384,
+      "lon": 139.6475984,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_505068030",
+      "name": "Soichi Oya Library",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.1,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 82,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6645761,
+      "lon": 139.619335,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1185877274",
+      "name": "Moon Step",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.1,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 82,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.7001376,
+      "lon": 139.6671638,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_671204427",
+      "name": "時は麺なり",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.2,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 83,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6500661,
+      "lon": 139.6367957,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_1420766452",
+      "name": "中野区立本町図書館",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.2,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 83,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.2,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.694688,
+      "lon": 139.677797,
+      "osm_tags": {
+        "amenity": "library"
+      }
+    },
+    {
+      "id": "osm_node_1093708765",
+      "name": "たつみ",
+      "categories": [
+        "nightlife",
+        "food"
+      ],
+      "time_bands": [
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.2,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 83,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "After 9 PM",
+      "lat": 35.6479078,
+      "lon": 139.6578265,
+      "osm_tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "id": "osm_node_599232585",
+      "name": "らーめん せい家 経堂店",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.3,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 84,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.6484847,
+      "lon": 139.636224,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    }
+  ]
+}

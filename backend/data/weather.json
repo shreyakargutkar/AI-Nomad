@@ -1,0 +1,144 @@
+{
+  "paris": {
+    "season_months": {
+      "spring": ["March", "April", "May"],
+      "summer": ["June", "July", "August"],
+      "autumn": ["September", "October", "November"],
+      "winter": ["December", "January", "February"]
+    },
+    "avg_temp_by_month": {
+      "March": {"min": 8, "max": 15, "avg": 11},
+      "April": {"min": 9, "max": 17, "avg": 13},
+      "May": {"min": 12, "max": 20, "avg": 16},
+      "June": {"min": 15, "max": 23, "avg": 19},
+      "July": {"min": 17, "max": 25, "avg": 21},
+      "August": {"min": 17, "max": 25, "avg": 21},
+      "September": {"min": 14, "max": 22, "avg": 18},
+      "October": {"min": 11, "max": 19, "avg": 15},
+      "November": {"min": 7, "max": 13, "avg": 10},
+      "December": {"min": 4, "max": 9, "avg": 7},
+      "January": {"min": 3, "max": 8, "avg": 6},
+      "February": {"min": 3, "max": 9, "avg": 6}
+    },
+    "precipitation_chance": {
+      "March": 40, "April": 45, "May": 55,
+      "June": 60, "July": 65, "August": 65,
+      "September": 55, "October": 50, "November": 45,
+      "December": 40, "January": 40, "February": 35
+    }
+  },
+  "tokyo": {
+    "season_months": {
+      "spring": ["March", "April", "May"],
+      "summer": ["June", "July", "August"],
+      "autumn": ["September", "October", "November"],
+      "winter": ["December", "January", "February"]
+    },
+    "avg_temp_by_month": {
+      "March": {"min": 5, "max": 14, "avg": 10},
+      "April": {"min": 9, "max": 19, "avg": 14},
+      "May": {"min": 13, "max": 23, "avg": 18},
+      "June": {"min": 17, "max": 25, "avg": 21},
+      "July": {"min": 20, "max": 29, "avg": 24},
+      "August": {"min": 21, "max": 31, "avg": 26},
+      "September": {"min": 18, "max": 26, "avg": 22},
+      "October": {"min": 13, "max": 22, "avg": 17},
+      "November": {"min": 9, "max": 17, "avg": 13},
+      "December": {"min": 4, "max": 12, "avg": 8},
+      "January": {"min": 2, "max": 10, "avg": 6},
+      "February": {"min": 3, "max": 12, "avg": 7}
+    },
+    "precipitation_chance": {
+      "March": 45, "April": 50, "May": 55,
+      "June": 65, "July": 70, "August": 75,
+      "September": 60, "October": 55, "November": 45,
+      "December": 30, "January": 30, "February": 35
+    }
+  },
+  "bali": {
+    "season_months": {
+      "spring": ["March", "April", "May"],
+      "summer": ["June", "July", "August"],
+      "autumn": ["September", "October", "November"],
+      "winter": ["December", "January", "February"]
+    },
+    "avg_temp_by_month": {
+      "March": {"min": 24, "max": 31, "avg": 28},
+      "April": {"min": 24, "max": 31, "avg": 28},
+      "May": {"min": 24, "max": 31, "avg": 28},
+      "June": {"min": 23, "max": 30, "avg": 27},
+      "July": {"min": 23, "max": 29, "avg": 26},
+      "August": {"min": 23, "max": 29, "avg": 26},
+      "September": {"min": 23, "max": 30, "avg": 27},
+      "October": {"min": 23, "max": 31, "avg": 28},
+      "November": {"min": 24, "max": 31, "avg": 28},
+      "December": {"min": 24, "max": 31, "avg": 28},
+      "January": {"min": 24, "max": 31, "avg": 28},
+      "February": {"min": 24, "max": 31, "avg": 28}
+    },
+    "precipitation_chance": {
+      "March": 40, "April": 30, "May": 25,
+      "June": 20, "July": 15, "August": 10,
+      "September": 20, "October": 30, "November": 45,
+      "December": 55, "January": 60, "February": 50
+    },
+    "climate": "tropical"
+  },
+  "bangkok": {
+    "season_months": {
+      "spring": ["March", "April", "May"],
+      "summer": ["June", "July", "August"],
+      "autumn": ["September", "October", "November"],
+      "winter": ["December", "January", "February"]
+    },
+    "avg_temp_by_month": {
+      "March": {"min": 26, "max": 35, "avg": 31},
+      "April": {"min": 27, "max": 36, "avg": 32},
+      "May": {"min": 27, "max": 35, "avg": 31},
+      "June": {"min": 26, "max": 33, "avg": 30},
+      "July": {"min": 26, "max": 33, "avg": 30},
+      "August": {"min": 26, "max": 33, "avg": 30},
+      "September": {"min": 25, "max": 32, "avg": 29},
+      "October": {"min": 25, "max": 32, "avg": 29},
+      "November": {"min": 24, "max": 32, "avg": 28},
+      "December": {"min": 22, "max": 31, "avg": 27},
+      "January": {"min": 21, "max": 32, "avg": 27},
+      "February": {"min": 23, "max": 33, "avg": 28}
+    },
+    "precipitation_chance": {
+      "March": 20, "April": 35, "May": 50,
+      "June": 55, "July": 60, "August": 65,
+      "September": 70, "October": 65, "November": 40,
+      "December": 15, "January": 10, "February": 15
+    },
+    "climate": "tropical"
+  },
+  "santorini": {
+    "season_months": {
+      "spring": ["March", "April", "May"],
+      "summer": ["June", "July", "August"],
+      "autumn": ["September", "October"],
+      "winter": ["November", "December", "January", "February"]
+    },
+    "avg_temp_by_month": {
+      "March": {"min": 11, "max": 17, "avg": 14},
+      "April": {"min": 12, "max": 19, "avg": 16},
+      "May": {"min": 16, "max": 24, "avg": 20},
+      "June": {"min": 20, "max": 29, "avg": 25},
+      "July": {"min": 23, "max": 32, "avg": 28},
+      "August": {"min": 24, "max": 32, "avg": 28},
+      "September": {"min": 21, "max": 28, "avg": 25},
+      "October": {"min": 18, "max": 24, "avg": 21},
+      "November": {"min": 13, "max": 19, "avg": 16},
+      "December": {"min": 11, "max": 16, "avg": 13},
+      "January": {"min": 9, "max": 14, "avg": 12},
+      "February": {"min": 9, "max": 15, "avg": 12}
+    },
+    "precipitation_chance": {
+      "March": 30, "April": 25, "May": 15,
+      "June": 5, "July": 5, "August": 10,
+      "September": 15, "October": 25, "November": 35,
+      "December": 40, "January": 35, "February": 30
+    }
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "japan": {
+    "display_name": "Japan",
+    "flag": "🇯🇵",
+    "default_city": "tokyo",
+    "emergency_numbers": {
+      "police": "110",
+      "ambulance_fire": "119",
+      "tourist_hotline": "050-3816-2787"
+    },
+    "embassy_example": {
+      "label": "Embassy of India, Tokyo",
+      "phone": "+81-3-3262-2391",
+      "address": "2-2-11 Kudan Minami, Chiyoda-ku, Tokyo 102-0074"
+    },
+    "essentials": {
+      "hospital": {
+        "name": "St. Luke's International Hospital",
+        "distance": "2.4 km",
+        "note": "English-speaking staff, 24/7 ER"
+      },
+      "pharmacy": {
+        "name": "Matsumoto Kiyoshi (Shinjuku East)",
+        "distance": "450 m",
+        "note": "OTC meds, English labels on many items"
+      },
+      "taxi_apps": ["JapanTaxi", "GO Taxi", "Uber (limited cities)"],
+      "safe_transport": "Use JR/metro until last train; JapanTaxi after midnight"
+    },
+    "scam_warnings": [
+      {
+        "title": "Last train timing trap",
+        "body": "Missing the last train (often ~midnight) forces ¥5,000+ taxi rides. Check last departure for YOUR line in Google Maps.",
+        "severity": "high"
+      },
+      {
+        "title": "Cash dependency",
+        "body": "Many shrines, ramen shops, and rural areas are cash-only. Keep ¥10,000+ on hand; 7-Eleven ATMs accept foreign cards.",
+        "severity": "medium"
+      },
+      {
+        "title": "Fake 'closed' redirects",
+        "body": "Strangers saying a temple/shrine is closed and offering alternate transport — usually a commission shop route. Verify on official site.",
+        "severity": "medium"
+      }
+    ],
+    "translations": {
+      "medical": { "phrase": "医者に診てもらいたいです", "romanization": "Isha ni mite moraitai desu", "english": "I need to see a doctor" },
+      "food": { "phrase": "私はベジタリアンです", "romanization": "Watashi wa bejitarian desu", "english": "I am vegetarian" },
+      "transport": { "phrase": "この住所まで連れて行ってください", "romanization": "Kono jūsho made tsurete itte kudasai", "english": "Please take me to this address" },
+      "emergency": { "phrase": "警察を呼んでください", "romanization": "Keisatsu wo yonde kudasai", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": {
+        "title": "Lost passport",
+        "reassurance": "Stay calm — this is recoverable. Most travelers receive emergency docs within 48–72 hours.",
+        "steps": [
+          "File a police report (遺失届) at the nearest kōban or police station — keep the report number.",
+          "Contact your embassy/consulate with police report, passport photos, and travel itinerary.",
+          "Apply for Emergency Certificate (EC) or temporary passport for onward travel.",
+          "Notify your airline — some carriers require valid ID 24h before departure."
+        ],
+        "contacts": ["Police: 110", "Embassy (see card above)", "Tourist hotline: 050-3816-2787"]
+      },
+      "missed_train": {
+        "title": "Missed train / Shinkansen",
+        "reassurance": "Stay calm — Japan's rail network has frequent alternatives.",
+        "steps": [
+          "Check if your ticket is flexible (reserved vs non-reserved) at the JR window.",
+          "Board the next available train — staff can often reseat you for a fee.",
+          "If last train missed, book capsule hotel or business hotel near station.",
+          "Use JapanTaxi or official taxi stand — avoid unlicensed solicitors."
+        ],
+        "contacts": ["JR Infoline (English): varies by region", "Station master window at major hubs"]
+      },
+      "medical_emergency": {
+        "title": "Medical emergency",
+        "reassurance": "Stay calm — call 119 for ambulance. Say your location clearly.",
+        "steps": [
+          "Dial 119 — request ambulance (救急車 kyūkyūsha).",
+          "If conscious, go to nearest hospital ER with English desk (St. Luke's, Tokyo Adventist).",
+          "Bring passport and travel insurance card.",
+          "Contact insurer 24h helpline for cashless/direct billing if covered."
+        ],
+        "contacts": ["Ambulance: 119", "Police: 110"]
+      }
+    }
+  },
+  "france": {
+    "display_name": "France",
+    "flag": "🇫🇷",
+    "default_city": "paris",
+    "emergency_numbers": { "police": "17", "ambulance": "15", "fire": "18", "eu_wide": "112" },
+    "embassy_example": {
+      "label": "Embassy of India, Paris",
+      "phone": "+33-1-4050-7070",
+      "address": "15 rue Alfred Dehodencq, 75016 Paris"
+    },
+    "essentials": {
+      "hospital": { "name": "Hôpital Américain de Paris", "distance": "5.1 km", "note": "English ER, private" },
+      "pharmacy": { "name": "Pharmacie des Champs (24h)", "distance": "1.2 km", "note": "Green cross = pharmacy" },
+      "taxi_apps": ["G7 Taxi", "Uber", "Bolt"],
+      "safe_transport": "Official taxi at stand only; avoid unsolicited helpers at stations"
+    },
+    "scam_warnings": [
+      {
+        "title": "Pickpocket zones",
+        "body": "Metro Line 1, RER B to CDG, Trocadéro, and Sacré-Cœur stairs — keep bags in front, zip pockets closed.",
+        "severity": "high"
+      },
+      {
+        "title": "Petition / bracelet scam",
+        "body": "Someone ties a 'friendship bracelet' then demands €20. Say non firmly and walk away.",
+        "severity": "medium"
+      },
+      {
+        "title": "Fake ticket inspectors",
+        "body": "Only show RATP tickets to uniformed staff in metro stations — not to random 'helpers' on platforms.",
+        "severity": "medium"
+      }
+    ],
+    "translations": {
+      "medical": { "phrase": "J'ai besoin d'un médecin", "romanization": "Zhay bezwaen duh medessan", "english": "I need a doctor" },
+      "food": { "phrase": "Je suis végétarien(ne)", "romanization": "Zhuh swee vay-zha-tair-yan", "english": "I am vegetarian" },
+      "transport": { "phrase": "Pouvez-vous m'emmener à cette adresse?", "romanization": "Poovay voo mem-men-ay ah set add-res", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Appelez la police, s'il vous plaît", "romanization": "App-lay la po-lees, seel voo play", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": {
+        "title": "Lost passport",
+        "reassurance": "Stay calm — file the report first; the embassy process is well established.",
+        "steps": [
+          "Go to commissariat de police — déclaration de perte de passeport.",
+          "Book embassy appointment online with police report reference.",
+          "Emergency travel document for return or onward Schengen exit.",
+          "Re-issue visa stickers if required for next destination."
+        ],
+        "contacts": ["Police: 17", "EU emergency: 112"]
+      },
+      "missed_train": {
+        "title": "Missed TGV / train",
+        "reassurance": "Stay calm — SNCF Connect app shows next departures instantly.",
+        "steps": [
+          "Open SNCF Connect — search same route for next train.",
+          "Visit guichet if ticket is flexible; exchange fee may apply on discount fares.",
+          "If stranded overnight, book hotel near Gare du Nord / Lyon — avoid street solicitors.",
+          "Consider FlixBus/Ouigo as backup for intercity."
+        ],
+        "contacts": ["SNCF: 3635", "EU emergency: 112"]
+      }
+    }
+  },
+  "thailand": {
+    "display_name": "Thailand",
+    "flag": "🇹🇭",
+    "default_city": "bangkok",
+    "emergency_numbers": { "police": "191", "ambulance": "1669", "tourist_police": "1155" },
+    "embassy_example": {
+      "label": "Embassy of India, Bangkok",
+      "phone": "+66-2-258-0300",
+      "address": "46 Sukhumvit Soi 23, Bangkok 10110"
+    },
+    "essentials": {
+      "hospital": { "name": "Bumrungrad International Hospital", "distance": "4.8 km", "note": "Major tourist hospital, English" },
+      "pharmacy": { "name": "Boots Pharmacy (Siam Paragon)", "distance": "800 m", "note": "Reliable chain" },
+      "taxi_apps": ["Grab", "Bolt"],
+      "safe_transport": "Grab only — refuse 'meter broken' street taxis near tourist sites"
+    },
+    "scam_warnings": [
+      {
+        "title": "Tuk-tuk 'temple closed' scam",
+        "body": "Driver says Grand Palace is closed, offers gem shop tour — palace is almost always open mornings. Walk to official entrance.",
+        "severity": "high"
+      },
+      {
+        "title": "Jet ski / rental damage scam",
+        "body": "Pre-existing scratches blamed on you — photograph equipment before use; use licensed operators only.",
+        "severity": "high"
+      },
+      {
+        "title": "Bird feed / photo fee",
+        "body": "Someone hands you feed for pigeons then demands 500+ baht — decline politely and step back.",
+        "severity": "low"
+      }
+    ],
+    "translations": {
+      "medical": { "phrase": "ฉันต้องการหมอ", "romanization": "Chan tong gaan mor", "english": "I need a doctor" },
+      "food": { "phrase": "ฉันเป็นมังสวิรัติ", "romanization": "Chan pen mang-sa-wi-rat", "english": "I am vegetarian" },
+      "transport": { "phrase": "พาไปที่อยู่นี้ได้ไหม", "romanization": "Paa bpai tee yoo nee dai mai", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "ช่วยเรียกตำรวจด้วย", "romanization": "Chuay riak dtam ruat duay", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": {
+        "title": "Lost passport",
+        "reassurance": "Stay calm — tourist police (1155) assist English speakers daily.",
+        "steps": [
+          "Report to tourist police or local station — get copy of report.",
+          "Embassy appointment for emergency certificate.",
+          "Allow 2–3 working days in Bangkok; faster in major cities."
+        ],
+        "contacts": ["Tourist police: 1155", "Police: 191"]
+      }
+    }
+  },
+  "turkey": {
+    "display_name": "Turkey",
+    "flag": "🇹🇷",
+    "default_city": "istanbul",
+    "emergency_numbers": { "police": "155", "ambulance": "112", "fire": "110" },
+    "embassy_example": {
+      "label": "Embassy of India, Istanbul",
+      "phone": "+90-212-296-2131",
+      "address": "Cumhuriyet Caddesi 18, Dörtler Apt, Harbiye, Şişli"
+    },
+    "essentials": {
+      "hospital": { "name": "American Hospital Istanbul", "distance": "3.2 km", "note": "English ER" },
+      "pharmacy": { "name": "Eczane (Sultanahmet)", "distance": "200 m", "note": "Eczane sign = pharmacy" },
+      "taxi_apps": ["BiTaksi", "Uber", "iTaksi"],
+      "safe_transport": "BiTaksi app — avoid street 'special price' offers near Grand Bazaar"
+    },
+    "scam_warnings": [
+      {
+        "title": "Currency conversion scams",
+        "body": "Unlicensed booths near Sultanahmet/Grand Bazaar — use banks or Ziraat ATMs. Always decline DCC at ATMs.",
+        "severity": "high"
+      },
+      {
+        "title": "Shoe shine 'gift' scam",
+        "body": "Brush 'gifted' then aggressive payment demand — say hayır and keep walking.",
+        "severity": "medium"
+      },
+      {
+        "title": "Fake carpet tour",
+        "body": "Free tea + pressure sales with inflated shipping — research shops independently.",
+        "severity": "medium"
+      }
+    ],
+    "translations": {
+      "medical": { "phrase": "Doktora ihtiyacım var", "romanization": "Doktora ihtiyachim var", "english": "I need a doctor" },
+      "food": { "phrase": "Vejetaryenim", "romanization": "Vejetaryenim", "english": "I am vegetarian" },
+      "transport": { "phrase": "Beni bu adrese götürür müsünüz?", "romanization": "Beni bu adrese goturur musunuz", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Lütfen polisi arayın", "romanization": "Lutfen polisi arayin", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": {
+        "title": "Lost passport",
+        "reassurance": "Stay calm — police report (kayıp tutanağı) is the critical first step.",
+        "steps": [
+          "Nearest police station for loss report within 24 hours.",
+          "Embassy with photos, itinerary, police document.",
+          "Emergency travel document for exit."
+        ],
+        "contacts": ["Police: 155", "Ambulance: 112"]
+      }
+    }
+  },
+  "greece": {
+    "display_name": "Greece",
+    "flag": "🇬🇷",
+    "default_city": "athens",
+    "emergency_numbers": { "police": "100", "ambulance": "166", "fire": "199", "eu_wide": "112" },
+    "embassy_example": { "label": "Embassy of India, Athens", "phone": "+30-210-721-6487", "address": "Kleanthous 3, Athens 106 74" },
+    "essentials": {
+      "hospital": { "name": "Evangelismos General Hospital", "distance": "2.5 km", "note": "Major Athens ER" },
+      "pharmacy": { "name": "On-duty pharmacy (green cross)", "distance": "Varies", "note": "Rotating 24h — check farmakeio.gr" },
+      "taxi_apps": ["Beat", "Uber", "Free Now"],
+      "safe_transport": "Official yellow taxis — insist meter or agree price before island transfers"
+    },
+    "scam_warnings": [
+      { "title": "Island ferry ticket resellers", "body": "Buy Blue Star / SeaJets tickets at official counters or website — port scalpers sell invalid seats.", "severity": "high" },
+      { "title": "Restaurant bill inflation", "body": "Check menu prices in euros before ordering on islands — 'fish of the day' priced per kg without warning.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "Χρειάζομαι γιατρό", "romanization": "Hriazome giatro", "english": "I need a doctor" },
+      "food": { "phrase": "Είμαι χορτοφάγος", "romanization": "Eimai hortofagos", "english": "I am vegetarian" },
+      "transport": { "phrase": "Μπορείτε να με πάτε σε αυτή τη διεύθυνση;", "romanization": "Boreite na me pate se afti ti diefthinsi", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Καλέστε την αστυνομία", "romanization": "Kaleste tin astinomia", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — police report first, then embassy in Athens.", "steps": ["Report at nearest Αστυνομία station.", "Contact embassy with report number.", "Emergency travel document for Schengen exit."], "contacts": ["Police: 100", "EU emergency: 112"] }
+    }
+  },
+  "indonesia": {
+    "display_name": "Indonesia",
+    "flag": "🇮🇩",
+    "default_city": "bali",
+    "emergency_numbers": { "police": "110", "ambulance": "118", "search_rescue": "115" },
+    "embassy_example": { "label": "Consulate General of India, Bali", "phone": "+62-361-749-8535", "address": "Jalan Raya Ubud No. 88, Denpasar" },
+    "essentials": {
+      "hospital": { "name": "BIMC Hospital", "distance": "Varies by area", "note": "International clinics in Bali/Denpasar" },
+      "pharmacy": { "name": "Kimia Farma / Guardian", "distance": "Common in tourist zones", "note": "Chain pharmacies reliable" },
+      "taxi_apps": ["Grab", "Gojek", "Blue Bird Taxi"],
+      "safe_transport": "Grab/Gojek only at night — avoid unmarked drivers from airport exit"
+    },
+    "scam_warnings": [
+      { "title": "Money changer sleight-of-hand", "body": "Authorized booths only — count cash at counter before leaving.", "severity": "high" },
+      { "title": "Scooter damage claims", "body": "Video all scratches before rental — common dispute at return.", "severity": "high" }
+    ],
+    "translations": {
+      "medical": { "phrase": "Saya perlu dokter", "romanization": "Saya perlu dokter", "english": "I need a doctor" },
+      "food": { "phrase": "Saya vegetarian", "romanization": "Saya vegetarian", "english": "I am vegetarian" },
+      "transport": { "phrase": "Bisakah antar saya ke alamat ini?", "romanization": "Bisakah antar saya ke alamat ini", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Tolong panggil polisi", "romanization": "Tolong panggil polisi", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — police report (STPL) required for embassy.", "steps": ["Report to Polisi resort office or nearest station.", "Get STPL copy for embassy.", "Emergency certificate at Consulate in Denpasar/Jakarta."], "contacts": ["Police: 110"] }
+    }
+  },
+  "spain": {
+    "display_name": "Spain",
+    "flag": "🇪🇸",
+    "default_city": "barcelona",
+    "emergency_numbers": { "police": "091", "ambulance": "112", "eu_wide": "112" },
+    "embassy_example": { "label": "Embassy of India, Madrid", "phone": "+34-91-553-2860", "address": "Avenida Pio XII 31-33, Madrid" },
+    "essentials": {
+      "hospital": { "name": "Hospital Clínic / La Paz", "distance": "City-dependent", "note": "112 directs to nearest ER" },
+      "pharmacy": { "name": "Farmacia (green cross)", "distance": "Every neighborhood", "note": "Farmacia guardia = on-duty late night" },
+      "taxi_apps": ["Cabify", "Uber", "Free Now"],
+      "safe_transport": "Licensed white taxis with meter — avoid unmarked at airport"
+    },
+    "scam_warnings": [
+      { "title": "Las Ramblas / Sagrada pickpockets", "body": "Teams target metro and crowded monuments — bag in front.", "severity": "high" },
+      { "title": "Paella tourist trap menus", "body": "Photos-only menus without prices near major sights — walk one block inland.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "Necesito un médico", "romanization": "Neh-theh-see-to un med-ee-ko", "english": "I need a doctor" },
+      "food": { "phrase": "Soy vegetariano/a", "romanization": "Soy veh-heh-tah-ryah-no", "english": "I am vegetarian" },
+      "transport": { "phrase": "¿Puede llevarme a esta dirección?", "romanization": "Pweh-deh yeh-vahr-meh ah es-tah dee-rek-syon", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Por favor llame a la policía", "romanization": "Por fa-vor yah-meh ah la po-lee-see-ah", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — denuncia at police station first.", "steps": ["File denuncia at Comisaría.", "Book embassy appointment with report.", "Emergency travel document."], "contacts": ["Police: 091", "Emergency: 112"] }
+    }
+  },
+  "italy": {
+    "display_name": "Italy",
+    "flag": "🇮🇹",
+    "default_city": "rome",
+    "emergency_numbers": { "police": "112", "ambulance": "118", "fire": "115" },
+    "embassy_example": { "label": "Embassy of India, Rome", "phone": "+39-06-4884642", "address": "Via XX Settembre 5, Rome" },
+    "essentials": {
+      "hospital": { "name": "Policlinico / Fatebenefratelli", "distance": "City-dependent", "note": "118 for ambulance dispatch" },
+      "pharmacy": { "name": "Farmacia", "distance": "Green cross signage", "note": "Farmacia di turno = night duty" },
+      "taxi_apps": ["Free Now", "ItTaxi", "Uber (limited cities)"],
+      "safe_transport": "White official taxis — ignore 'special price' offers at Termini"
+    },
+    "scam_warnings": [
+      { "title": "Colosseum fake skip-the-line", "body": "Buy only from co-opce.it or official site — street sellers sell worthless passes.", "severity": "high" },
+      { "title": "Coperto surprise", "body": "Cover charge (coperto) added per person — ask before sitting.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "Ho bisogno di un medico", "romanization": "Oh bee-SON-yo dee un MED-ee-ko", "english": "I need a doctor" },
+      "food": { "phrase": "Sono vegetariano/a", "romanization": "SO-no veh-jeh-tah-RYAH-no", "english": "I am vegetarian" },
+      "transport": { "phrase": "Può portarmi a questo indirizzo?", "romanization": "Pwaw por-TAR-mee ah KWEH-sto in-dee-REET-so", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Chiami la polizia, per favore", "romanization": "KYAH-mee la po-LEE-tsya", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — questura report within 24 hours.", "steps": ["Denuncia at Questura (police HQ).", "Embassy appointment with report.", "Emergency travel document."], "contacts": ["Emergency: 112"] }
+    }
+  },
+  "uae": {
+    "display_name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "default_city": "dubai",
+    "emergency_numbers": { "police": "999", "ambulance": "998", "fire": "997" },
+    "embassy_example": { "label": "Embassy of India, Dubai", "phone": "+971-4-397-1222", "address": "Al Hamariya, Diplomatic Enclave, Bur Dubai" },
+    "essentials": {
+      "hospital": { "name": "American Hospital Dubai / Rashid Hospital", "distance": "5–8 km", "note": "Private vs public ER options" },
+      "pharmacy": { "name": "Boots / Aster Pharmacy", "distance": "Widespread in malls", "note": "Chain pharmacies in every mall" },
+      "taxi_apps": ["Careem", "Uber", "Official RTA taxi"],
+      "safe_transport": "RTA cream taxis with meter — Careem at night"
+    },
+    "scam_warnings": [
+      { "title": "Desert safari bait-and-switch", "body": "Confirm inclusions in writing — quad bike/dinner upsells at camp.", "severity": "medium" },
+      { "title": "Gold souk weight confusion", "body": "Verify scale reading and karat stamp before paying.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "أحتاج إلى طبيب", "romanization": "Ahtaju ila tabeeb", "english": "I need a doctor" },
+      "food": { "phrase": "أنا نباتي", "romanization": "Ana nabati", "english": "I am vegetarian" },
+      "transport": { "phrase": "هل يمكنك إيصالي إلى هذا العنوان؟", "romanization": "Hal yumkinuk eesalee ila hatha al-unwan", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "اتصل بالشرطة من فضلك", "romanization": "Ittasil bil-shurta min fadlak", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — report at nearest police station same day.", "steps": ["File report at Dubai/Abu Dhabi police.", "Embassy with report + photos.", "Emergency certificate for exit."], "contacts": ["Police: 999"] }
+    }
+  },
+  "singapore": {
+    "display_name": "Singapore",
+    "flag": "🇸🇬",
+    "default_city": "singapore",
+    "emergency_numbers": { "police": "999", "ambulance": "995" },
+    "embassy_example": { "label": "High Commission of India, Singapore", "phone": "+65-6737-6777", "address": "31 Grange Road, Singapore 239702" },
+    "essentials": {
+      "hospital": { "name": "Singapore General Hospital", "distance": "3 km", "note": "Major public ER" },
+      "pharmacy": { "name": "Guardian / Watsons", "distance": "Every MRT hub", "note": "Reliable chains" },
+      "taxi_apps": ["Grab", "Gojek", "ComfortDelGro"],
+      "safe_transport": "Grab or official taxi stands — very low street scam rate"
+    },
+    "scam_warnings": [
+      { "title": "Orchard clipboard scams", "body": "Aggressive charity sign-ups — legitimate orgs won't block paths.", "severity": "low" },
+      { "title": "Counterfeit electronics", "body": "Buy electronics at official retailers — avoid Lucky Plaza grey market without warranty.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "I need a doctor", "romanization": "Standard English widely understood", "english": "I need a doctor" },
+      "food": { "phrase": "I am vegetarian", "romanization": "Standard English", "english": "I am vegetarian" },
+      "transport": { "phrase": "Can you take me to this address?", "romanization": "Standard English", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Please call the police", "romanization": "Standard English", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — Singapore police efficient; report immediately.", "steps": ["Report at nearest Neighbourhood Police Centre.", "High Commission with report.", "Emergency certificate."], "contacts": ["Police: 999", "Ambulance: 995"] }
+    }
+  },
+  "uk": {
+    "display_name": "United Kingdom",
+    "flag": "🇬🇧",
+    "default_city": "london",
+    "emergency_numbers": { "police_ambulance_fire": "999", "non_emergency": "101" },
+    "embassy_example": { "label": "High Commission of India, London", "phone": "+44-20-7836-8484", "address": "India House, Aldwych, London WC2B 4NA" },
+    "essentials": {
+      "hospital": { "name": "St Thomas' / UCH", "distance": "City-dependent", "note": "NHS 999 for life-threatening; expect A&E waits" },
+      "pharmacy": { "name": "Boots / Superdrug", "distance": "High street everywhere", "note": "Late-night branches in central London" },
+      "taxi_apps": ["Uber", "Free Now", "Black cab (official)"],
+      "safe_transport": "Licensed black cabs or app — never unmarked at Heathrow"
+    },
+    "scam_warnings": [
+      { "title": "Tube pickpockets", "body": "Oxford Circus, Leicester Square, tourist lines — phone in front pocket.", "severity": "high" },
+      { "title": "Fake theatre ticket touts", "body": "Buy West End tickets from official box office or TodayTix only.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "I need a doctor", "romanization": "Standard English", "english": "I need a doctor" },
+      "food": { "phrase": "I am vegetarian", "romanization": "Standard English", "english": "I am vegetarian" },
+      "transport": { "phrase": "Can you take me to this address?", "romanization": "Standard English", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Please call the police", "romanization": "Standard English", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — report at police station for crime reference number.", "steps": ["Report theft/loss at police station (CRN).", "Book VFS/High Commission emergency appointment.", "Emergency travel document."], "contacts": ["Emergency: 999"] },
+      "missed_train": { "title": "Missed train", "reassurance": "Stay calm — use Trainline for next departure.", "steps": ["Check ticket flexibility on Trainline app.", "Speak to station staff at ticket office.", "Book hotel if last train — avoid unofficial 'help'."], "contacts": ["National Rail enquiries"] }
+    }
+  },
+  "usa": {
+    "display_name": "United States",
+    "flag": "🇺🇸",
+    "default_city": "new_york",
+    "emergency_numbers": { "police_fire_ambulance": "911" },
+    "embassy_example": { "label": "Embassy of India, Washington DC", "phone": "+1-202-939-7000", "address": "2107 Massachusetts Ave NW, Washington DC" },
+    "essentials": {
+      "hospital": { "name": "Nearest ER via 911", "distance": "Dispatch assigns", "note": "Bring ID and insurance — costs vary" },
+      "pharmacy": { "name": "CVS / Walgreens", "distance": "Ubiquitous", "note": "24h locations in major cities" },
+      "taxi_apps": ["Uber", "Lyft", "Yellow Cab (NYC)"],
+      "safe_transport": "App rides from official pickup zones at airports"
+    },
+    "scam_warnings": [
+      { "title": "Times Square character tips", "body": "Costumed mascots demand cash after photos — decline and keep walking.", "severity": "medium" },
+      { "title": "Fake attraction tickets", "body": "Statue of Liberty & Broadway — official vendors only.", "severity": "high" }
+    ],
+    "translations": {
+      "medical": { "phrase": "I need a doctor", "romanization": "Standard English", "english": "I need a doctor" },
+      "food": { "phrase": "I am vegetarian", "romanization": "Standard English", "english": "I am vegetarian" },
+      "transport": { "phrase": "Can you take me to this address?", "romanization": "Standard English", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Please call the police", "romanization": "Standard English", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — police report then embassy appointment.", "steps": ["File police report for lost property.", "Schedule embassy/consulate emergency passport.", "Allow 1–3 days for emergency passport."], "contacts": ["Emergency: 911"] },
+      "medical_emergency": { "title": "Medical emergency", "reassurance": "Stay calm — dial 911; state location clearly.", "steps": ["Call 911 — don't hang up until dispatcher releases you.", "Unlock door for paramedics if safe.", "Contact travel insurer after stable."], "contacts": ["Emergency: 911"] }
+    }
+  },
+  "india": {
+    "display_name": "India",
+    "flag": "🇮🇳",
+    "default_city": "delhi",
+    "emergency_numbers": { "police": "100", "ambulance": "102", "unified": "112" },
+    "embassy_example": { "label": "Ministry of External Affairs (for foreign nationals)", "phone": "+91-11-2338-7100", "address": "Passport Seva — state your nationality" },
+    "essentials": {
+      "hospital": { "name": "Apollo / Max / Fortis (private ER)", "distance": "City-dependent", "note": "Private hospitals faster for tourists" },
+      "pharmacy": { "name": "Apollo Pharmacy / MedPlus", "distance": "Widespread", "note": "Chain stores preferred" },
+      "taxi_apps": ["Uber", "Ola", "Meru"],
+      "safe_transport": "App cabs at night — pre-paid airport counters"
+    },
+    "scam_warnings": [
+      { "title": "Auto 'monument closed' detour", "body": "Drivers redirect to commission shops — use metro or Uber to official gate.", "severity": "high" },
+      { "title": "Sim card overpricing", "body": "Buy Airtel/Jio at official store with passport — airport kiosks mark up.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "मुझे डॉक्टर की जरूरत है", "romanization": "Mujhe doctor ki zaroorat hai", "english": "I need a doctor" },
+      "food": { "phrase": "मैं शाकाहारी हूं", "romanization": "Main shakahari hoon", "english": "I am vegetarian" },
+      "transport": { "phrase": "क्या आप मुझे इस पते पर ले जा सकते हैं?", "romanization": "Kya aap mujhe is pate par le ja sakte hain", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "कृपया पुलिस को बुलाएं", "romanization": "Kripya police ko bulayein", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — FIR at police station is mandatory.", "steps": ["File FIR at local police station.", "Contact your embassy in Delhi/Mumbai.", "Emergency certificate for exit."], "contacts": ["Police: 100", "Unified: 112"] }
+    }
+  },
+  "australia": {
+    "display_name": "Australia",
+    "flag": "🇦🇺",
+    "default_city": "sydney",
+    "emergency_numbers": { "police_fire_ambulance": "000" },
+    "embassy_example": { "label": "High Commission of India, Canberra", "phone": "+61-2-6273-3999", "address": "3-5 Moonah Place, Yarralumla ACT" },
+    "essentials": {
+      "hospital": { "name": "St Vincent's / RPA Hospital", "distance": "City-dependent", "note": "000 for ambulance — Medicare/reciprocal care varies" },
+      "pharmacy": { "name": "Chemist Warehouse / Priceline", "distance": "Suburban malls", "note": "Late-night chemists in CBD" },
+      "taxi_apps": ["Uber", "13cabs", "DiDi"],
+      "safe_transport": "Official ranks or rideshare — low scam rate nationally"
+    },
+    "scam_warnings": [
+      { "title": "Rental bond disputes", "body": "Document car/camper condition — disputed damage at some agencies.", "severity": "medium" },
+      { "title": "Beach rip current ignorance", "body": "Swim between flags only — lifeguards are the real safety system.", "severity": "high" }
+    ],
+    "translations": {
+      "medical": { "phrase": "I need a doctor", "romanization": "Standard English", "english": "I need a doctor" },
+      "food": { "phrase": "I am vegetarian", "romanization": "Standard English", "english": "I am vegetarian" },
+      "transport": { "phrase": "Can you take me to this address?", "romanization": "Standard English", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Please call the police", "romanization": "Standard English", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — report at police station for event number.", "steps": ["Report at local police for event number.", "Contact nearest consulate.", "Emergency passport."], "contacts": ["Emergency: 000"] }
+    }
+  },
+  "south_korea": {
+    "display_name": "South Korea",
+    "flag": "🇰🇷",
+    "default_city": "seoul",
+    "emergency_numbers": { "police": "112", "ambulance_fire": "119", "tourist_hotline": "1330" },
+    "embassy_example": { "label": "Embassy of India, Seoul", "phone": "+82-2-798-4257", "address": "754 Hannam-dong, Yongsan-gu, Seoul" },
+    "essentials": {
+      "hospital": { "name": "SNU Hospital / Severance", "distance": "4–6 km", "note": "1330 hotline helps with English hospitals" },
+      "pharmacy": { "name": "Olive Young / pharmacy 약국", "distance": "Every district", "note": "1330 can locate English-speaking pharmacy" },
+      "taxi_apps": ["Kakao T", "Uber", "Official orange taxis"],
+      "safe_transport": "Kakao T — subway closes ~midnight, taxi surge after"
+    },
+    "scam_warnings": [
+      { "title": "Itaewon bar bill padding", "body": "Verify drink prices on menu — tourist nightlife occasionally overcharges.", "severity": "medium" },
+      { "title": "Taxi route detours", "body": "Use Kakao T with mapped route — rare but report via app.", "severity": "low" }
+    ],
+    "translations": {
+      "medical": { "phrase": "의사가 필요합니다", "romanization": "Uisaga pillyohamnida", "english": "I need a doctor" },
+      "food": { "phrase": "저는 채식主义者입니다", "romanization": "Jeoneun chaesikjuuija imnida", "english": "I am vegetarian" },
+      "transport": { "phrase": "이 주소로 데려다 주세요", "romanization": "I jusoro deryeoda juseyo", "english": "Please take me to this address" },
+      "emergency": { "phrase": "경찰을 불러 주세요", "romanization": "Gyeongchareul bulleo juseyo", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — 1330 tourist hotline assists in English.", "steps": ["Report at nearest police station.", "Call 1330 for embassy guidance.", "Emergency travel document."], "contacts": ["Police: 112", "Tourist hotline: 1330"] }
+    }
+  },
+  "vietnam": {
+    "display_name": "Vietnam",
+    "flag": "🇻🇳",
+    "default_city": "ho_chi_minh",
+    "emergency_numbers": { "police": "113", "ambulance": "115", "fire": "114" },
+    "embassy_example": { "label": "Embassy of India, Hanoi", "phone": "+84-24-3842-3734", "address": "58-60 Tran Hung Dao, Hanoi" },
+    "essentials": {
+      "hospital": { "name": "FV Hospital (HCMC) / Vinmec", "distance": "5 km", "note": "International hospitals for tourists" },
+      "pharmacy": { "name": "Pharmacity", "distance": "District 1 common", "note": "Reliable chain" },
+      "taxi_apps": ["Grab", "Gojek", "Mailinh Taxi"],
+      "safe_transport": "Grab only — insist on app price, not street xe om"
+    },
+    "scam_warnings": [
+      { "title": "Motorbike taxi wrong change", "body": "500k vs 20k note confusion — count change before driver leaves.", "severity": "medium" },
+      { "title": "Shoe shine scam (HCMC)", "body": "Free shine then aggressive fee — say không and walk.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "Tôi cần bác sĩ", "romanization": "Toy can bac si", "english": "I need a doctor" },
+      "food": { "phrase": "Tôi ăn chay", "romanization": "Toy an chay", "english": "I am vegetarian" },
+      "transport": { "phrase": "Bạn có thể đưa tôi đến địa chỉ này không?", "romanization": "Ban co the dua toy den dia chi nay khong", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Làm ơn gọi cảnh sát", "romanization": "Lam on goi canh sat", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — police report at local ward office.", "steps": ["Report at police station.", "Embassy in Hanoi/HCMC with report.", "Emergency travel paper."], "contacts": ["Police: 113"] }
+    }
+  },
+  "malaysia": {
+    "display_name": "Malaysia",
+    "flag": "🇲🇾",
+    "default_city": "kuala_lumpur",
+    "emergency_numbers": { "police": "999", "ambulance": "999" },
+    "embassy_example": { "label": "High Commission of India, Kuala Lumpur", "phone": "+60-3-6143-6100", "address": "2 Jalan Taman Duta, Kuala Lumpur" },
+    "essentials": {
+      "hospital": { "name": "Gleneagles KL / Prince Court", "distance": "4 km", "note": "Private ER English common" },
+      "pharmacy": { "name": "Guardian / Watsons", "distance": "Mall-based", "note": "Chains in every mall" },
+      "taxi_apps": ["Grab", "AirAsia Ride"],
+      "safe_transport": "Grab — avoid unmetered taxis at KLCC"
+    },
+    "scam_warnings": [
+      { "title": "Petition / donation scam", "body": "Fake charity clipboards near Petronas — decline politely.", "severity": "low" },
+      { "title": "Taxi meter 'broken'", "body": "Use Grab — classic KL airport scam.", "severity": "medium" }
+    ],
+    "translations": {
+      "medical": { "phrase": "Saya perlukan doktor", "romanization": "Saya perlukan doktor", "english": "I need a doctor" },
+      "food": { "phrase": "Saya vegetarian", "romanization": "Saya vegetarian", "english": "I am vegetarian" },
+      "transport": { "phrase": "Bolehkah hantar saya ke alamat ini?", "romanization": "Bolehkah hantar saya ke alamat ini", "english": "Can you take me to this address?" },
+      "emergency": { "phrase": "Sila panggil polis", "romanization": "Sila panggil polis", "english": "Please call the police" }
+    },
+    "sos_workflows": {
+      "lost_passport": { "title": "Lost passport", "reassurance": "Stay calm — police report then High Commission.", "steps": ["Lodge report at police station.", "High Commission appointment.", "Emergency certificate."], "contacts": ["Emergency: 999"] }
+    }
+  }
+}

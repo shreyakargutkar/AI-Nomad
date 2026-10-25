@@ -1,0 +1,674 @@
+{
+  "cached_at": 1792851874.037416,
+  "places": [
+    {
+      "id": "osm_node_13859534302",
+      "name": "京都カレー製作所 カリル",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.1,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 46,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 35.0117403,
+      "lon": 135.7673177,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_4359772091",
+      "name": "Maison de thé",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.1,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 46,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.0120416,
+      "lon": 135.7679316,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_7319933585",
+      "name": "本能寺大寶殿宝物館",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.2,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 47,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.0102889,
+      "lon": 135.7675663,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_190551080",
+      "name": "島津製作所創業記念資料館",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 0.2,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 47,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 35.0128505,
+      "lon": 135.7702481,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_572104312",
+      "name": "銅駝公園",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 0.4,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 49,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 35.0143786,
+      "lon": 135.7700019,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_547209766",
+      "name": "新京極六角公園",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 0.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 51,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 35.0072895,
+      "lon": 135.7672542,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_440395223",
+      "name": "富小路殿公園",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 0.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 51,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 35.0141028,
+      "lon": 135.7641946,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_12189675719",
+      "name": "シナリー金沢翔子美術館",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.6,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 76,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9890921,
+      "lon": 135.7594822,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_6699718753",
+      "name": "天下の焼肉 大将軍",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9874692,
+      "lon": 135.7588868,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_14115009602",
+      "name": "Sashisu",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9877808,
+      "lon": 135.7588204,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_12076083352",
+      "name": "京ちゃばな",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "mid",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "$15–$45",
+      "best_visiting_time": "Early evening",
+      "lat": 34.987744,
+      "lon": 135.7588908,
+      "osm_tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "id": "osm_node_7047054833",
+      "name": "Miwaku",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9877817,
+      "lon": 135.7583298,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_7011734893",
+      "name": "小川珈琲",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.8,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 78,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9873364,
+      "lon": 135.7587985,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_3672798256",
+      "name": "ドトールコーヒーショップ",
+      "categories": [
+        "food"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening",
+        "late_night"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 2.9,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 79,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9871811,
+      "lon": 135.7579842,
+      "osm_tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "id": "osm_node_451980286",
+      "name": "東塩小路公園",
+      "categories": [
+        "outdoor",
+        "nature"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.9,
+        "cloudy": 0.8,
+        "rain": 0.2,
+        "snow": 0.35,
+        "extreme_heat": 0.45
+      },
+      "indoor_outdoor": "outdoor",
+      "distance_km": 3.1,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 82,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Morning (before crowds)",
+      "lat": 34.9859651,
+      "lon": 135.7552294,
+      "osm_tags": {}
+    },
+    {
+      "id": "osm_node_5936885886",
+      "name": "松下資料館",
+      "categories": [
+        "culture",
+        "indoor"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 3.3,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 84,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.3,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 34.9837651,
+      "lon": 135.7546664,
+      "osm_tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "id": "osm_node_6937234754",
+      "name": "京都青蓮院門跡 旧 院家",
+      "categories": [
+        "culture"
+      ],
+      "time_bands": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "weather_scores": {
+        "clear": 0.7,
+        "cloudy": 0.8,
+        "rain": 0.95,
+        "snow": 0.9,
+        "extreme_heat": 0.95
+      },
+      "indoor_outdoor": "indoor",
+      "distance_km": 66.5,
+      "budget_tier": "budget",
+      "group_sizes": [
+        "solo",
+        "couple",
+        "small_group",
+        "family"
+      ],
+      "duration_min": 180,
+      "crowd": "moderate",
+      "availability": "open_now",
+      "rating": 4.0,
+      "cost": "Free–$15",
+      "best_visiting_time": "Early evening",
+      "lat": 34.6679726,
+      "lon": 135.1715373,
+      "osm_tags": {}
+    }
+  ]
+}

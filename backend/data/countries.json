@@ -1,0 +1,300 @@
+{
+  "japan": {
+    "display_name": "Japan",
+    "visa": {
+      "required": false,
+      "summary": "Visa-free for many nationalities up to 90 days. Ensure passport validity of 6+ months.",
+      "documents": ["Valid passport", "Return/onward ticket", "Proof of funds (may be asked)"]
+    },
+    "transportation": [
+      {
+        "name": "Suica / Pasmo IC Card",
+        "description": "Rechargeable smart card for Tokyo metro, buses, and convenience store payments.",
+        "type": "essential",
+        "where_to_get": "Airport train stations, major JR stations"
+      },
+      {
+        "name": "JR Pass",
+        "description": "Unlimited Shinkansen and JR limited express travel — buy before arrival if visiting multiple cities.",
+        "type": "recommended",
+        "where_to_get": "Purchase exchange order online, activate at JR office in Japan"
+      }
+    ],
+    "cultural_notes": [
+      "Remove shoes when entering homes, ryokans, and some restaurants.",
+      "Carry cash — many smaller establishments prefer cash payments.",
+      "Queue quietly on public transport; phones on silent.",
+      "No tipping — it can be considered rude."
+    ],
+    "prebooking_recommendations": [
+      {
+        "name": "teamLab Planets / Borderless",
+        "description": "Immersive digital art — timed entry only, sells out on weekends.",
+        "days_ahead": "7–10 days",
+        "priority": "high"
+      },
+      {
+        "name": "Ghibli Museum",
+        "description": "Tickets sold via Lawson convenience store network — extremely limited.",
+        "days_ahead": "1–3 months",
+        "priority": "high"
+      },
+      {
+        "name": "Universal Studios Japan",
+        "description": "Express Pass highly recommended for popular rides.",
+        "days_ahead": "7–14 days",
+        "priority": "medium"
+      }
+    ],
+    "connectivity": {
+      "recommendation": "Pocket WiFi or eSIM — airport pickup saves time on arrival.",
+      "options": ["Sakura Mobile", "Japan Wireless", "Airport SIM counters"]
+    },
+    "power": {
+      "plug_type": "Type A (US-style two-pin)",
+      "voltage": "100V",
+      "special_adapter_needed": false
+    },
+    "document_checklist": [
+      "Passport valid 6+ months",
+      "Travel insurance certificate",
+      "JR Pass exchange order (if purchased)",
+      "Hotel addresses in Japanese (helpful for immigration)"
+    ]
+  },
+  "france": {
+    "display_name": "France",
+    "visa": {
+      "required": false,
+      "summary": "Schengen visa-free for 90 days within any 180-day period for eligible passports.",
+      "documents": ["Valid passport", "Proof of accommodation", "Return ticket", "Travel insurance (recommended)"]
+    },
+    "transportation": [
+      {
+        "name": "Navigo / Paris Visite Pass",
+        "description": "Unlimited metro, RER Zone 1–2, and buses within Paris.",
+        "type": "essential",
+        "where_to_get": "Metro station counters, airports"
+      },
+      {
+        "name": "TGV / SNCF Train Tickets",
+        "description": "Book inter-city trains early for best fares to Lyon, Nice, or Bordeaux.",
+        "type": "recommended",
+        "where_to_get": "SNCF Connect app or train stations"
+      }
+    ],
+    "cultural_notes": [
+      "Greet with 'Bonjour' before asking questions — politeness matters.",
+      "Many shops close Sunday and for lunch (12–2 PM).",
+      "Keep voice low on Metro; eating on trains is frowned upon.",
+      "Restaurant service charge is included — tipping is optional."
+    ],
+    "prebooking_recommendations": [
+      {
+        "name": "Eiffel Tower Summit",
+        "description": "Summit tickets sell out; book skip-the-line for peak season.",
+        "days_ahead": "3–7 days",
+        "priority": "high"
+      },
+      {
+        "name": "Louvre Museum",
+        "description": "Timed entry strongly recommended; closed Tuesdays.",
+        "days_ahead": "Same day to 1 week",
+        "priority": "medium"
+      },
+      {
+        "name": "Versailles Palace",
+        "description": "Palace + gardens ticket — arrive at opening to beat crowds.",
+        "days_ahead": "3–5 days",
+        "priority": "medium"
+      }
+    ],
+    "connectivity": {
+      "recommendation": "EU roaming may work; otherwise Orange Holiday or Free Mobile SIM.",
+      "options": ["Orange Holiday", "Free Mobile", "Bouygues Telecom"]
+    },
+    "power": {
+      "plug_type": "Type E (two round pins)",
+      "voltage": "230V",
+      "special_adapter_needed": true
+    },
+    "document_checklist": [
+      "Passport valid for Schengen stay",
+      "Proof of accommodation",
+      "Travel insurance (EHIC/GHIC where applicable)",
+      "Printed museum tickets if booked"
+    ]
+  },
+  "greece": {
+    "display_name": "Greece",
+    "visa": {
+      "required": false,
+      "summary": "Schengen visa-free rules apply. Ferry tickets between islands should be booked in peak season.",
+      "documents": ["Valid passport", "Return ticket", "Accommodation proof"]
+    },
+    "transportation": [
+      {
+        "name": "Athens Transport Ticket",
+        "description": "Combined metro, tram, and bus access in Athens.",
+        "type": "essential",
+        "where_to_get": "Metro stations, kiosks"
+      },
+      {
+        "name": "Ferry Tickets (Cyclades)",
+        "description": "Book Santorini/Mykonos ferries early in July–August.",
+        "type": "recommended",
+        "where_to_get": "Ferryhopper, Blue Star, or port kiosks"
+      }
+    ],
+    "cultural_notes": [
+      "Dress modestly at monasteries and churches — cover shoulders and knees.",
+      "Sunset in Oia draws huge crowds — arrive 90 minutes early.",
+      "Tipping 5–10% is appreciated at restaurants.",
+      "Tap water is safe in Athens; stick to bottled on islands."
+    ],
+    "prebooking_recommendations": [
+      {
+        "name": "Acropolis & Archaeological Sites",
+        "description": "Combined ticket covers multiple sites — buy online to skip queues.",
+        "days_ahead": "Same day to 3 days",
+        "priority": "medium"
+      },
+      {
+        "name": "Santorini Catamaran Tours",
+        "description": "Sunset sailing tours fill quickly in summer.",
+        "days_ahead": "7–14 days",
+        "priority": "medium"
+      }
+    ],
+    "connectivity": {
+      "recommendation": "WiFi widely available; Cosmote or Vodafone SIM for island hopping.",
+      "options": ["Cosmote", "Vodafone", "Wind"]
+    },
+    "power": {
+      "plug_type": "Type C/F",
+      "voltage": "230V",
+      "special_adapter_needed": false
+    },
+    "document_checklist": [
+      "Passport valid for Schengen",
+      "Ferry confirmations (if island-hopping)",
+      "Travel insurance",
+      "Sun protection for open archaeological sites"
+    ]
+  },
+  "thailand": {
+    "display_name": "Thailand",
+    "visa": {
+      "required": true,
+      "summary": "Visa exemption or visa on arrival for many nationalities (typically 30–60 days). Check latest rules for your passport.",
+      "documents": ["Valid passport", "Return ticket", "Proof of accommodation", "Cash or card proof of funds"]
+    },
+    "transportation": [
+      {
+        "name": "Airport SIM Card",
+        "description": "AIS or TrueMove H — buy at Bangkok airport for immediate connectivity.",
+        "type": "essential",
+        "where_to_get": "Suvarnabhumi or Don Mueang airport arrivals"
+      },
+      {
+        "name": "Rabbit Card (Bangkok)",
+        "description": "BTS Skytrain and selected merchants — saves queuing for tokens.",
+        "type": "recommended",
+        "where_to_get": "Any BTS station ticket office"
+      },
+      {
+        "name": "Grab App",
+        "description": "Primary ride-hailing — safer and clearer pricing than street taxis.",
+        "type": "essential",
+        "where_to_get": "Download before arrival"
+      }
+    ],
+    "cultural_notes": [
+      "Temple dress code: cover shoulders and knees — sarongs available for rent at Grand Palace.",
+      "Remove shoes before entering temple buildings.",
+      "Respect the monarchy — avoid any disrespectful comments.",
+      "Bargaining is common at markets but not in malls."
+    ],
+    "prebooking_recommendations": [
+      {
+        "name": "Grand Palace Bangkok",
+        "description": "Strict dress code; visit before 10 AM to avoid heat and crowds.",
+        "days_ahead": "Same day",
+        "priority": "medium"
+      },
+      {
+        "name": "James Bond Island / Phi Phi Tours",
+        "description": "Day tours from Phuket/Krabi — book reputable operators in advance in peak season.",
+        "days_ahead": "3–7 days",
+        "priority": "medium"
+      }
+    ],
+    "connectivity": {
+      "recommendation": "Airport SIM is cheapest and fastest — 7–15 day tourist packages available.",
+      "options": ["AIS", "DTAC", "TrueMove H"]
+    },
+    "power": {
+      "plug_type": "Type A/C/O",
+      "voltage": "220V",
+      "special_adapter_needed": false
+    },
+    "document_checklist": [
+      "Passport with 6+ months validity",
+      "Return flight confirmation",
+      "Hotel bookings",
+      "Travel insurance",
+      "Thai baht cash for markets and temples"
+    ]
+  },
+  "indonesia": {
+    "display_name": "Indonesia (Bali)",
+    "visa": {
+      "required": true,
+      "summary": "Visa on arrival or e-VOA available for many nationalities — check current fee and duration.",
+      "documents": ["Valid passport", "Return ticket", "Accommodation address"]
+    },
+    "transportation": [
+      {
+        "name": "Grab / Gojek",
+        "description": "Essential for Bali transport — agree on price or use app meter.",
+        "type": "essential",
+        "where_to_get": "Download apps before arrival"
+      },
+      {
+        "name": "Scooter Rental",
+        "description": "International driving permit required — inspect bike and helmet quality.",
+        "type": "optional",
+        "where_to_get": "Licensed rental shops in Ubud/Seminyak"
+      }
+    ],
+    "cultural_notes": [
+      "Sarong and sash required at temple entrances — often available for rent.",
+      "Respect ceremonies — avoid loud behavior near temples during festivals.",
+      "Drink bottled water only.",
+      "Sunrise at Mount Batur requires pre-dawn start — book guided trek."
+    ],
+    "prebooking_recommendations": [
+      {
+        "name": "Mount Batur Sunrise Trek",
+        "description": "Guided treks with hotel pickup — book 2–5 days ahead in peak season.",
+        "days_ahead": "3–7 days",
+        "priority": "high"
+      }
+    ],
+    "connectivity": {
+      "recommendation": "Telkomsel SIM widely available at Denpasar airport.",
+      "options": ["Telkomsel", "XL Axiata"]
+    },
+    "power": {
+      "plug_type": "Type C/F",
+      "voltage": "230V",
+      "special_adapter_needed": false
+    },
+    "document_checklist": [
+      "Passport valid 6+ months",
+      "VOA payment (card or cash)",
+      "Travel insurance",
+      "Temple sarong (or rent on-site)"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FBF9F6;
+  --foreground: #1E2229;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-plus-jakarta), sans-serif;
+  --font-display: var(--font-fraunces), serif;
+  
+  /* Custom brand colors */
+  --color-brand-sand: #FBF9F6;
+  --color-brand-clay: #C85A32;
+  --color-brand-clay-dark: #A54422;
+  --color-brand-forest: #1E3F2E;
+  --color-brand-forest-light: #2D5A43;
+  --color-brand-charcoal: #1E2229;
+  --color-brand-paper: #FFFFFF;
+  --color-brand-border: #EAE3D2;
+}
+
+body {
+  font-family: var(--font-plus-jakarta), sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: var(--font-fraunces), serif;
+}
+
+/* Scrapbook and travel specific styles */
+.paper-sheet {
+  background-color: #FFFFFF;
+  border: 1px solid #EAE3D2;
+  box-shadow: 0 4px 20px -2px rgba(30, 34, 41, 0.04);
+}
+
+.postcard-shadow {
+  box-shadow: 0 10px 30px -10px rgba(30, 34, 41, 0.08);
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 8s linear infinite;
+}

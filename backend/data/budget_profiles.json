@@ -1,0 +1,202 @@
+{
+  "japan": {
+    "display_name": "Japan",
+    "currency": "INR",
+    "daily_base_inr": { "budget": 4500, "mid": 8500, "luxury": 18000 },
+    "hidden_costs": [
+      { "id": "airport_transfer", "label": "Airport express / N'EX / Limousine", "amount_inr": 3200, "note": "Narita/Haneda to city — often skipped in spreadsheets" },
+      { "id": "ic_card", "label": "Suica/Pasmo deposit + initial load", "amount_inr": 1500, "note": "¥500 deposit + ¥1500 minimum load" },
+      { "id": "esim", "label": "eSIM / Pocket WiFi (7 days)", "amount_inr": 2800, "note": "Essential for maps & translation" },
+      { "id": "luggage", "label": "Coin lockers & luggage forwarding", "amount_inr": 2200, "note": "Day-trip locker use + Kuroneko once" },
+      { "id": "accommodation_tax", "label": "Tokyo accommodation tax", "amount_inr": 800, "note": "¥100–200/night in designated wards" },
+      { "id": "attraction_addons", "label": "Attraction add-ons & express passes", "amount_inr": 4500, "note": "USJ Express, teamLab premium slots" }
+    ],
+    "neighborhood_multipliers": {
+      "shinjuku": { "food": 1.18, "transport_hub": true },
+      "ginza": { "food": 1.25, "shopping": 1.3 },
+      "ueno": { "food": 0.92, "hotel_savings_vs_shinjuku": 18000 },
+      "asakusa": { "food": 0.95, "hotel_savings_vs_shinjuku": 12000 }
+    },
+    "activity_costs_inr": {
+      "disneyland": 12000,
+      "disneysea": 12000,
+      "disney_combo": 24000,
+      "usj": 11000,
+      "teamlab": 3500,
+      "ghibli": 2800,
+      "skytree": 2500,
+      "jr_pass_7": 28000,
+      "shinkansen_kyoto": 14000
+    },
+    "alert_templates": [
+      {
+        "trigger": ["disney", "disneyland", "disneysea"],
+        "title": "Disneyland + DisneySea combo risk",
+        "message": "Two-park Disney visit often exceeds a mid-range daily budget by ₹14,000–₹18,000 when express passes are included.",
+        "severity": "high",
+        "overage_inr": 14000
+      },
+      {
+        "trigger": ["shinjuku", "ginza"],
+        "title": "Premium neighborhood food premium",
+        "message": "Peak-season cafes and dinner spots in {area} push food costs ~25% higher than Ueno/Asakusa equivalents.",
+        "severity": "medium",
+        "overage_inr": 3500
+      },
+      {
+        "trigger": ["shinjuku hotel", "shinjuku stay"],
+        "title": "Hotel location transport overhead",
+        "message": "Staying in Shinjuku while your itinerary centers on Asakusa/Ueno adds ~₹8,000 in extra metro hops over 7 days.",
+        "severity": "medium",
+        "overage_inr": 8000
+      }
+    ],
+    "smart_fixes": [
+      {
+        "id": "ueno_hotel",
+        "title": "Stay in Ueno instead of Shinjuku",
+        "savings_inr": 18000,
+        "steps": ["Book hotel near Ueno or Asakusa stations", "Use Yamanote line for cross-city days", "Walk to Senso-ji & National Museum"],
+        "conditions": ["shinjuku", "ginza"]
+      },
+      {
+        "id": "jr_pass",
+        "title": "Use 7-day JR Pass vs individual Shinkansen tickets",
+        "savings_inr": 7000,
+        "steps": ["Count Tokyo–Kyoto–Osaka legs before buying", "Purchase exchange order before departure", "Activate on first long-distance day"],
+        "conditions": ["kyoto", "osaka", "shinkansen", "jr"]
+      },
+      {
+        "id": "outlet_day3",
+        "title": "Shop outlet district on Day 3 (not airport)",
+        "savings_inr": 4000,
+        "steps": ["Visit Gotemba or Mitsui Outlet on a weekday", "Avoid last-day Haneda duty-free impulse buys", "Use tax-free counter with passport"],
+        "conditions": ["shop", "shopping", "outlet"]
+      },
+      {
+        "id": "konbini_breakfast",
+        "title": "Konbini breakfast + one splurge dinner",
+        "savings_inr": 5500,
+        "steps": ["7-Eleven/Lawson breakfast sets (~¥400)", "Reserve budget for one omakase or izakaya night", "Skip hotel buffet add-ons"],
+        "conditions": ["food", "vegetarian", "halal"]
+      }
+    ]
+  },
+  "france": {
+    "display_name": "France",
+    "currency": "INR",
+    "daily_base_inr": { "budget": 5500, "mid": 10000, "luxury": 22000 },
+    "hidden_costs": [
+      { "id": "cdg_transfer", "label": "CDG/ORY to Paris RER + metro", "amount_inr": 2800 },
+      { "id": "museum_pass", "label": "Paris Museum Pass vs à la carte", "amount_inr": 5200, "note": "Often cheaper than 3 separate timed entries" },
+      { "id": "city_tax", "label": "Paris tourist accommodation tax", "amount_inr": 1200 },
+      { "id": "esim", "label": "EU eSIM (7 days)", "amount_inr": 2400 },
+      { "id": "luggage", "label": "Gare du Nord / Gare de Lyon lockers", "amount_inr": 1800 }
+    ],
+    "neighborhood_multipliers": {
+      "marais": { "food": 1.15 },
+      "montmartre": { "food": 1.12, "pickpocket_risk": true },
+      "latin_quarter": { "food": 1.08 }
+    },
+    "activity_costs_inr": {
+      "eiffel": 4500,
+      "louvre": 3800,
+      "versailles": 5500,
+      "disneyland_paris": 13000
+    },
+    "alert_templates": [
+      {
+        "trigger": ["eiffel", "louvre", "versailles"],
+        "title": "Museum cluster booking fees",
+        "message": "Eiffel + Louvre + Versailles with skip-the-line add-ons can exceed budget by ₹12,000 vs Museum Pass bundle.",
+        "severity": "high",
+        "overage_inr": 12000
+      },
+      {
+        "trigger": ["champs", "montmartre"],
+        "title": "Tourist-zone dining markup",
+        "message": "Cafés near {area} run 30–40% above neighborhood bistros — budget an extra ₹4,500 for food over 5 days.",
+        "severity": "medium",
+        "overage_inr": 4500
+      }
+    ],
+    "smart_fixes": [
+      {
+        "id": "museum_pass",
+        "title": "Paris Museum Pass + single Eiffel summit",
+        "savings_inr": 9000,
+        "steps": ["Buy 4-day pass online", "Book Eiffel summit separately", "Visit Louvre opening slot"],
+        "conditions": ["louvre", "versailles", "museum"]
+      },
+      {
+        "id": "picnic_lunch",
+        "title": "Picnic lunch + bistro dinner split",
+        "savings_inr": 6000,
+        "steps": ["Marché lunch from local market", "One sit-down dinner in 11th arrondissement"],
+        "conditions": ["food"]
+      }
+    ]
+  },
+  "thailand": {
+    "display_name": "Thailand",
+    "currency": "INR",
+    "daily_base_inr": { "budget": 2800, "mid": 5500, "luxury": 14000 },
+    "hidden_costs": [
+      { "id": "airport_taxi", "label": "Official airport taxi vs tuk-tuk detour", "amount_inr": 1200 },
+      { "id": "sim", "label": "Tourist SIM (AIS/True)", "amount_inr": 900 },
+      { "id": "temple_dress", "label": "Temple dress code rentals / wraps", "amount_inr": 600 },
+      { "id": "booking_fees", "label": "Island tour & snorkel booking fees", "amount_inr": 3500 }
+    ],
+    "activity_costs_inr": {
+      "phi_phi": 8500,
+      "floating_market": 3200,
+      "grand_palace": 2800
+    },
+    "alert_templates": [
+      {
+        "trigger": ["tuk", "tuktuk", "tuk-tuk"],
+        "title": "Tuk-tuk scam routing risk",
+        "message": "Gem-shop detour routes can add ₹2,000–₹5,000 in wasted time and pressure purchases — use Grab/Bolt instead.",
+        "severity": "high",
+        "overage_inr": 3500
+      }
+    ],
+    "smart_fixes": [
+      {
+        "id": "grab_transport",
+        "title": "Grab/Bolt instead of unmetered tuk-tuks",
+        "savings_inr": 4500,
+        "steps": ["Install Grab before landing", "Decline 'closed temple' redirect scams", "Use BTS/MRT for Sukhumvit–Siam legs"],
+        "conditions": ["bangkok", "tuk"]
+      }
+    ]
+  },
+  "turkey": {
+    "display_name": "Turkey",
+    "currency": "INR",
+    "daily_base_inr": { "budget": 3500, "mid": 7000, "luxury": 16000 },
+    "hidden_costs": [
+      { "id": "museum_pass", "label": "Museum Pass Istanbul", "amount_inr": 4200 },
+      { "id": "esim", "label": "Local eSIM", "amount_inr": 1800 },
+      { "id": "hamam", "label": "Traditional hamam tip + service", "amount_inr": 1500 }
+    ],
+    "alert_templates": [
+      {
+        "trigger": ["exchange", "currency", "dinar"],
+        "title": "Currency conversion scam zones",
+        "message": "Unlicensed exchange booths near Sultanahmet can short-change by 8–12% — use bank ATMs or official offices.",
+        "severity": "high",
+        "overage_inr": 5000
+      }
+    ],
+    "smart_fixes": [
+      {
+        "id": "atm_withdraw",
+        "title": "ATM withdrawal in TRY vs street exchange",
+        "savings_inr": 5000,
+        "steps": ["Use Ziraat/VakıfBank ATMs", "Decline dynamic currency conversion (DCC)", "Keep small bills for bazaars"],
+        "conditions": ["istanbul", "exchange"]
+      }
+    ]
+  }
+}
